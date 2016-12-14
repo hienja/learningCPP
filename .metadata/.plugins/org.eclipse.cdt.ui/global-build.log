@@ -375,3 +375,158 @@ Invoking: Cross G++ Linker
 g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
 Finished building target: Pointers and Arrays
  
+20:39:09 **** Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:39:11 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+make: Nothing to be done for 'all'.
+20:39:34 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:39:52 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:40:11 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:40:57 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:41:34 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:44:10 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+../src/Pointer Arithmetic.cpp: In function ‘int main()’:
+../src/Pointer Arithmetic.cpp:24:12: error: ‘text’ was not declared in this scope
+  pTexts = &text[0];
+            ^
+../src/Pointer Arithmetic.cpp:25:15: error: cannot convert ‘bool’ to ‘std::__cxx11::string* {aka std::__cxx11::basic_string<char>*}’ in assignment
+  while(pTexts =! pEnd) {
+               ^
+../src/Pointer Arithmetic.cpp:28:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+src/subdir.mk:18: recipe for target 'src/Pointer Arithmetic.o' failed
+make: *** [src/Pointer Arithmetic.o] Error 1
+20:44:52 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:46:12 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:46:35 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:48:18 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:48:42 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+Building file: ../src/Pointer Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
+Finished building: ../src/Pointer Arithmetic.cpp
+ 
+Building target: Pointer Arithmetic
+Invoking: Cross G++ Linker
+g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
+Finished building target: Pointer Arithmetic
+ 
+20:49:11 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+make all 
+make: Nothing to be done for 'all'.
