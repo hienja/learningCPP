@@ -1,0 +1,24 @@
+//============================================================================
+// Name        : Data.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include "Cat.h"
+
+using namespace std;
+
+int main() {
+	Cat bobby;
+	bobby.makeHappy();
+	bobby.speak();
+
+	Cat jim;
+	jim.makeSad();
+	jim.speak();
+
+	return 0;
+}

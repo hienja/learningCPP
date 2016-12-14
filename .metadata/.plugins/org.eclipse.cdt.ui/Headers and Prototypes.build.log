@@ -1,0 +1,15 @@
+14:50:34 **** Incremental Build of configuration Debug for project Headers and Prototypes ****
+make all 
+Building file: ../src/Headers and Prototypes.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Headers and Prototypes.d" -MT"src/Headers\ and\ Prototypes.d" -o "src/Headers and Prototypes.o" "../src/Headers and Prototypes.cpp"
+Finished building: ../src/Headers and Prototypes.cpp
+ 
+Building target: Headers and Prototypes
+Invoking: Cross G++ Linker
+g++  -o "Headers and Prototypes"  ./src/Headers\ and\ Prototypes.o   
+Finished building target: Headers and Prototypes
+ 
+
+14:50:34 Build Finished (took 371ms)
+
