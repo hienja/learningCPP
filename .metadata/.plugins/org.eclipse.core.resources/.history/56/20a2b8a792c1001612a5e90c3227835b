@@ -15,14 +15,7 @@ int main() {
 	int age = 32;
 	string name = "Bob";
 
-	stringstream ss;
-
-	ss << "Name is: ";
-	ss << name;
-	ss << "; Age is: ";
-	ss << age;
-
-	string info = ss.str();
+	string info = "Name: " + name + "; age: " + age;
 
 	cout << info << endl;
 
