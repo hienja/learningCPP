@@ -243,3 +243,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-13 19:32:53.563
 !MESSAGE Indexed 'Pointers' (1 sources, 104 headers) in 2.38 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-13 19:50:58.770
+!MESSAGE Indexed 'Arithmetic' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-13 19:52:50.216
+!MESSAGE Indexed 'Arithmetic' (1 sources, 0 headers) in 0.053 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)

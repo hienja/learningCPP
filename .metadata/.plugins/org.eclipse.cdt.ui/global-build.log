@@ -1,277 +1,4 @@
-14:47:38 **** Build of configuration Debug for project Headers and Prototypes ****
-make all 
-Building file: ../src/Headers and Prototypes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Headers and Prototypes.d" -MT"src/Headers\ and\ Prototypes.d" -o "src/Headers and Prototypes.o" "../src/Headers and Prototypes.cpp"
-Finished building: ../src/Headers and Prototypes.cpp
- 
-Building target: Headers and Prototypes
-Invoking: Cross G++ Linker
-g++  -o "Headers and Prototypes"  ./src/Headers\ and\ Prototypes.o   
-Finished building target: Headers and Prototypes
- 
-14:47:46 **** Incremental Build of configuration Debug for project Headers and Prototypes ****
-make all 
-Building file: ../src/Headers and Prototypes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Headers and Prototypes.d" -MT"src/Headers\ and\ Prototypes.d" -o "src/Headers and Prototypes.o" "../src/Headers and Prototypes.cpp"
-Finished building: ../src/Headers and Prototypes.cpp
- 
-Building target: Headers and Prototypes
-Invoking: Cross G++ Linker
-g++  -o "Headers and Prototypes"  ./src/Headers\ and\ Prototypes.o   
-Finished building target: Headers and Prototypes
- 
-14:48:23 **** Incremental Build of configuration Debug for project Headers and Prototypes ****
-make all 
-Building file: ../src/Headers and Prototypes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Headers and Prototypes.d" -MT"src/Headers\ and\ Prototypes.d" -o "src/Headers and Prototypes.o" "../src/Headers and Prototypes.cpp"
-Finished building: ../src/Headers and Prototypes.cpp
- 
-Building target: Headers and Prototypes
-Invoking: Cross G++ Linker
-g++  -o "Headers and Prototypes"  ./src/Headers\ and\ Prototypes.o   
-Finished building target: Headers and Prototypes
- 
-14:50:34 **** Incremental Build of configuration Debug for project Headers and Prototypes ****
-make all 
-Building file: ../src/Headers and Prototypes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Headers and Prototypes.d" -MT"src/Headers\ and\ Prototypes.d" -o "src/Headers and Prototypes.o" "../src/Headers and Prototypes.cpp"
-Finished building: ../src/Headers and Prototypes.cpp
- 
-Building target: Headers and Prototypes
-Invoking: Cross G++ Linker
-g++  -o "Headers and Prototypes"  ./src/Headers\ and\ Prototypes.o   
-Finished building target: Headers and Prototypes
- 
-14:58:26 **** Build of configuration Debug for project Classes ****
-make all 
-Building file: ../src/Classes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Classes.d" -MT"src/Classes.d" -o "src/Classes.o" "../src/Classes.cpp"
-Finished building: ../src/Classes.cpp
- 
-Building target: Classes
-Invoking: Cross G++ Linker
-g++  -o "Classes"  ./src/Classes.o   
-Finished building target: Classes
- 
-15:02:15 **** Incremental Build of configuration Debug for project Classes ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
- 
-Building file: ../src/Classes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Classes.d" -MT"src/Classes.d" -o "src/Classes.o" "../src/Classes.cpp"
-Finished building: ../src/Classes.cpp
- 
-Building target: Classes
-Invoking: Cross G++ Linker
-g++  -o "Classes"  ./src/Cat.o ./src/Classes.o   
-Finished building target: Classes
- 
-15:02:48 **** Incremental Build of configuration Debug for project Classes ****
-make all 
-Building file: ../src/Classes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Classes.d" -MT"src/Classes.d" -o "src/Classes.o" "../src/Classes.cpp"
-Finished building: ../src/Classes.cpp
- 
-Building target: Classes
-Invoking: Cross G++ Linker
-g++  -o "Classes"  ./src/Cat.o ./src/Classes.o   
-Finished building target: Classes
- 
-15:04:41 **** Incremental Build of configuration Debug for project Classes ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
- 
-Building file: ../src/Classes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Classes.d" -MT"src/Classes.d" -o "src/Classes.o" "../src/Classes.cpp"
-Finished building: ../src/Classes.cpp
- 
-Building target: Classes
-Invoking: Cross G++ Linker
-g++  -o "Classes"  ./src/Cat.o ./src/Classes.o   
-Finished building target: Classes
- 
-15:08:07 **** Incremental Build of configuration Debug for project Classes ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
- 
-Building file: ../src/Classes.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Classes.d" -MT"src/Classes.d" -o "src/Classes.o" "../src/Classes.cpp"
-Finished building: ../src/Classes.cpp
- 
-Building target: Classes
-Invoking: Cross G++ Linker
-g++  -o "Classes"  ./src/Cat.o ./src/Classes.o   
-Finished building target: Classes
- 
-15:11:36 **** Build of configuration Debug for project Data Members ****
-make all 
-Building file: ../src/Data Members.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Data Members.d" -MT"src/Data\ Members.d" -o "src/Data Members.o" "../src/Data Members.cpp"
-Finished building: ../src/Data Members.cpp
- 
-Building target: Data Members
-Invoking: Cross G++ Linker
-g++  -o "Data Members"  ./src/Data\ Members.o   
-Finished building target: Data Members
- 
-15:11:40 **** Incremental Build of configuration Debug for project Data Members ****
-make all 
-make: Nothing to be done for 'all'.
-15:15:58 **** Incremental Build of configuration Debug for project Data Members ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-../src/Cat.cpp:7:19: fatal error: iosteam: No such file or directory
-src/subdir.mk:21: recipe for target 'src/Cat.o' failed
-compilation terminated.
-make: *** [src/Cat.o] Error 1
-15:16:16 **** Incremental Build of configuration Debug for project Data Members ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
- 
-Building file: ../src/Data Members.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Data Members.d" -MT"src/Data\ Members.d" -o "src/Data Members.o" "../src/Data Members.cpp"
-Finished building: ../src/Data Members.cpp
- 
-Building target: Data Members
-Invoking: Cross G++ Linker
-g++  -o "Data Members"  ./src/Cat.o ./src/Data\ Members.o   
-Finished building target: Data Members
- 
-15:18:03 **** Incremental Build of configuration Debug for project Data Members ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
- 
-Building file: ../src/Data Members.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Data Members.d" -MT"src/Data\ Members.d" -o "src/Data Members.o" "../src/Data Members.cpp"
-Finished building: ../src/Data Members.cpp
- 
-Building target: Data Members
-Invoking: Cross G++ Linker
-g++  -o "Data Members"  ./src/Cat.o ./src/Data\ Members.o   
-Finished building target: Data Members
- 
-15:19:18 **** Incremental Build of configuration Debug for project Data Members ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
- 
-Building file: ../src/Data Members.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Data Members.d" -MT"src/Data\ Members.d" -o "src/Data Members.o" "../src/Data Members.cpp"
-Finished building: ../src/Data Members.cpp
- 
-Building target: Data Members
-Invoking: Cross G++ Linker
-g++  -o "Data Members"  ./src/Cat.o ./src/Data\ Members.o   
-Finished building target: Data Members
- 
-15:19:48 **** Incremental Build of configuration Debug for project Data Members ****
-make all 
-Building file: ../src/Data Members.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Data Members.d" -MT"src/Data\ Members.d" -o "src/Data Members.o" "../src/Data Members.cpp"
-Finished building: ../src/Data Members.cpp
- 
-Building target: Data Members
-Invoking: Cross G++ Linker
-g++  -o "Data Members"  ./src/Cat.o ./src/Data\ Members.o   
-Finished building target: Data Members
- 
-15:23:17 **** Incremental Build of configuration Debug for project Data Members ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
- 
-Building file: ../src/Data Members.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Data Members.d" -MT"src/Data\ Members.d" -o "src/Data Members.o" "../src/Data Members.cpp"
-../src/Data Members.cpp: In function ‘int main()’:
-../src/Data Members.cpp:22:6: error: ‘class Cat’ has no member named ‘makeSad’
-  jim.makeSad();
-      ^
-make: *** [src/Data Members.o] Error 1
-src/subdir.mk:28: recipe for target 'src/Data Members.o' failed
-15:25:40 **** Incremental Build of configuration Debug for project Data Members ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
- 
-Building file: ../src/Data Members.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Data Members.d" -MT"src/Data\ Members.d" -o "src/Data Members.o" "../src/Data Members.cpp"
-Finished building: ../src/Data Members.cpp
- 
-Building target: Data Members
-Invoking: Cross G++ Linker
-g++  -o "Data Members"  ./src/Cat.o ./src/Data\ Members.o   
-Finished building target: Data Members
- 
-15:34:26 **** Build of configuration Debug for project Constructor and Destructors ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-../src/Cat.cpp:12:10: error: definition of implicitly-declared ‘Cat::Cat()’
- Cat::Cat() {
-          ^
-src/subdir.mk:21: recipe for target 'src/Cat.o' failed
-make: *** [src/Cat.o] Error 1
-15:34:37 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-../src/Cat.cpp:12:10: error: definition of implicitly-declared ‘Cat::Cat()’
- Cat::Cat() {
-          ^
-make: *** [src/Cat.o] Error 1
-src/subdir.mk:21: recipe for target 'src/Cat.o' failed
-15:35:53 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
-make all 
-Building file: ../src/Cat.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-../src/Cat.cpp:12:10: error: definition of implicitly-declared ‘Cat::Cat()’
- Cat::Cat() {
-          ^
-make: *** [src/Cat.o] Error 1
-src/subdir.mk:21: recipe for target 'src/Cat.o' failed
-15:41:07 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
+19:52:17 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
 make all 
 Building file: ../src/Cat.cpp
 Invoking: Cross G++ Compiler
@@ -288,810 +15,149 @@ Invoking: Cross G++ Linker
 g++  -o "Constructor and Destructors"  ./src/Cat.o ./src/Constructor\ and\ Destructors.o   
 Finished building target: Constructor and Destructors
  
-15:41:10 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
+19:52:21 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
 make all 
 make: Nothing to be done for 'all'.
-15:44:54 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
+19:56:06 **** Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/Cat.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building file: ../src/Constructor and Destructors.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Constructor and Destructors.d" -MT"src/Constructor\ and\ Destructors.d" -o "src/Constructor and Destructors.o" "../src/Constructor and Destructors.cpp"
-Finished building: ../src/Constructor and Destructors.cpp
- 
-Building target: Constructor and Destructors
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "Constructor and Destructors"  ./src/Cat.o ./src/Constructor\ and\ Destructors.o   
-Finished building target: Constructor and Destructors
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-15:48:02 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
+19:56:12 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/Constructor and Destructors.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Constructor and Destructors.d" -MT"src/Constructor\ and\ Destructors.d" -o "src/Constructor and Destructors.o" "../src/Constructor and Destructors.cpp"
-Finished building: ../src/Constructor and Destructors.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building target: Constructor and Destructors
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "Constructor and Destructors"  ./src/Cat.o ./src/Constructor\ and\ Destructors.o   
-Finished building target: Constructor and Destructors
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-15:51:57 **** Build of configuration Debug for project Getters and Setters ****
+19:56:29 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/Getters and Setters.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Getters and Setters.d" -MT"src/Getters\ and\ Setters.d" -o "src/Getters and Setters.o" "../src/Getters and Setters.cpp"
-Finished building: ../src/Getters and Setters.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building target: Getters and Setters
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "Getters and Setters"  ./src/Getters\ and\ Setters.o   
-Finished building target: Getters and Setters
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-15:52:03 **** Incremental Build of configuration Debug for project Getters and Setters ****
+19:57:43 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-make: Nothing to be done for 'all'.
-15:56:44 **** Incremental Build of configuration Debug for project Getters and Setters ****
-make all 
-Building file: ../src/Getters and Setters.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Getters and Setters.d" -MT"src/Getters\ and\ Setters.d" -o "src/Getters and Setters.o" "../src/Getters and Setters.cpp"
-../src/Getters and Setters.cpp: In function ‘int main()’:
-../src/Getters and Setters.cpp:13:2: error: ‘Person’ was not declared in this scope
-  Person person;
-  ^
-src/subdir.mk:21: recipe for target 'src/Getters and Setters.o' failed
-../src/Getters and Setters.cpp:14:10: error: ‘person’ was not declared in this scope
-  cout << person.toString << endl;
-          ^
-make: *** [src/Getters and Setters.o] Error 1
-15:57:24 **** Incremental Build of configuration Debug for project Getters and Setters ****
-make all 
-Building file: ../src/Getters and Setters.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Getters and Setters.d" -MT"src/Getters\ and\ Setters.d" -o "src/Getters and Setters.o" "../src/Getters and Setters.cpp"
-In file included from ../src/Getters and Setters.cpp:10:0:
-../src/Person.h:20:18: error: expected ‘;’ at end of member declaration
-  string toString()
-                  ^
-../src/Getters and Setters.cpp: In function ‘int main()’:
-../src/Getters and Setters.cpp:15:17: error: invalid use of non-static member function
-  cout << person.toString << endl;
-                 ^
-src/subdir.mk:21: recipe for target 'src/Getters and Setters.o' failed
-make: *** [src/Getters and Setters.o] Error 1
-15:58:04 **** Incremental Build of configuration Debug for project Getters and Setters ****
-make all 
-Building file: ../src/Getters and Setters.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Getters and Setters.d" -MT"src/Getters\ and\ Setters.d" -o "src/Getters and Setters.o" "../src/Getters and Setters.cpp"
-In file included from ../src/Getters and Setters.cpp:10:0:
-../src/Person.h:20:18: error: expected ‘;’ at end of member declaration
-  string toString()
-                  ^
-src/subdir.mk:21: recipe for target 'src/Getters and Setters.o' failed
-make: *** [src/Getters and Setters.o] Error 1
-15:58:27 **** Incremental Build of configuration Debug for project Getters and Setters ****
-make all 
-Building file: ../src/Getters and Setters.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Getters and Setters.d" -MT"src/Getters\ and\ Setters.d" -o "src/Getters and Setters.o" "../src/Getters and Setters.cpp"
-Finished building: ../src/Getters and Setters.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Getters and Setters
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "Getters and Setters"  ./src/Getters\ and\ Setters.o ./src/Person.o   
-Finished building target: Getters and Setters
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-16:00:52 **** Incremental Build of configuration Debug for project Getters and Setters ****
+19:58:22 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/Getters and Setters.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Getters and Setters.d" -MT"src/Getters\ and\ Setters.d" -o "src/Getters and Setters.o" "../src/Getters and Setters.cpp"
-Finished building: ../src/Getters and Setters.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Getters and Setters
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "Getters and Setters"  ./src/Getters\ and\ Setters.o ./src/Person.o   
-Finished building target: Getters and Setters
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-16:02:51 **** Incremental Build of configuration Debug for project Getters and Setters ****
+19:58:58 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/Getters and Setters.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Getters and Setters.d" -MT"src/Getters\ and\ Setters.d" -o "src/Getters and Setters.o" "../src/Getters and Setters.cpp"
-Finished building: ../src/Getters and Setters.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Getters and Setters
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "Getters and Setters"  ./src/Getters\ and\ Setters.o ./src/Person.o   
-Finished building target: Getters and Setters
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-16:15:30 **** Build of configuration Debug for project String Streams ****
+19:59:54 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/String Streams.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/String Streams.d" -MT"src/String\ Streams.d" -o "src/String Streams.o" "../src/String Streams.cpp"
-Finished building: ../src/String Streams.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building target: String Streams
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "String Streams"  ./src/String\ Streams.o   
-Finished building target: String Streams
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-16:15:35 **** Incremental Build of configuration Debug for project String Streams ****
+20:01:20 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/String Streams.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/String Streams.d" -MT"src/String\ Streams.d" -o "src/String Streams.o" "../src/String Streams.cpp"
-../src/String Streams.cpp: In function ‘int main()’:
-../src/String Streams.cpp:16:44: error: no match for ‘operator+’ (operand types are ‘std::__cxx11::basic_string<char>’ and ‘int’)
-  string info = "Name: " + name + "; age: " + age;
-                                            ^
-In file included from /usr/include/c++/5/bits/stl_algobase.h:67:0,
-                 from /usr/include/c++/5/bits/char_traits.h:39,
-                 from /usr/include/c++/5/ios:40,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/stl_iterator.h:334:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
-     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
-     ^
-/usr/include/c++/5/bits/stl_iterator.h:334:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:16:46: note:   mismatched types ‘const std::reverse_iterator<_Iterator>’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4783:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^
-/usr/include/c++/5/bits/basic_string.h:4783:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:16:46: note:   mismatched types ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:53:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.tcc:1151:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(const _CharT* __lhs,
-     ^
-src/subdir.mk:18: recipe for target 'src/String Streams.o' failed
-/usr/include/c++/5/bits/basic_string.tcc:1151:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:16:46: note:   mismatched types ‘const _CharT*’ and ‘std::__cxx11::basic_string<char>’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:53:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.tcc:1167:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
-     ^
-/usr/include/c++/5/bits/basic_string.tcc:1167:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:16:46: note:   mismatched types ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4820:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^
-/usr/include/c++/5/bits/basic_string.h:4820:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:16:46: note:   mismatched types ‘const _CharT*’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4836:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
-     ^
-/usr/include/c++/5/bits/basic_string.h:4836:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:16:46: note:   deduced conflicting types for parameter ‘_CharT’ (‘char’ and ‘int’)
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/bits/stl_algobase.h:67:0,
-                 from /usr/include/c++/5/bits/char_traits.h:39,
-                 from /usr/include/c++/5/ios:40,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/stl_iterator.h:930:5: note: candidate: template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
-     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
-     ^
-/usr/include/c++/5/bits/stl_iterator.h:930:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:16:46: note:   mismatched types ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-make: *** [src/String Streams.o] Error 1
-16:16:07 **** Incremental Build of configuration Debug for project String Streams ****
-make all 
-Building file: ../src/String Streams.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/String Streams.d" -MT"src/String\ Streams.d" -o "src/String Streams.o" "../src/String Streams.cpp"
-../src/String Streams.cpp: In function ‘int main()’:
-../src/String Streams.cpp:18:44: error: no match for ‘operator+’ (operand types are ‘std::__cxx11::basic_string<char>’ and ‘int’)
-  string info = "Name: " + name + "; age: " + age;
-                                            ^
-In file included from /usr/include/c++/5/bits/stl_algobase.h:67:0,
-                 from /usr/include/c++/5/bits/char_traits.h:39,
-                 from /usr/include/c++/5/ios:40,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/stl_iterator.h:334:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
-     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
-     ^
-/usr/include/c++/5/bits/stl_iterator.h:334:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:46: note:   mismatched types ‘const std::reverse_iterator<_Iterator>’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4783:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^
-/usr/include/c++/5/bits/basic_string.h:4783:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:46: note:   mismatched types ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:53:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.tcc:1151:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(const _CharT* __lhs,
-     ^
-/usr/include/c++/5/bits/basic_string.tcc:1151:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:46: note:   mismatched types ‘const _CharT*’ and ‘std::__cxx11::basic_string<char>’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:53:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-src/subdir.mk:18: recipe for target 'src/String Streams.o' failed
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.tcc:1167:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
-     ^
-/usr/include/c++/5/bits/basic_string.tcc:1167:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:46: note:   mismatched types ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4820:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^
-/usr/include/c++/5/bits/basic_string.h:4820:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:46: note:   mismatched types ‘const _CharT*’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4836:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
-     ^
-/usr/include/c++/5/bits/basic_string.h:4836:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:46: note:   deduced conflicting types for parameter ‘_CharT’ (‘char’ and ‘int’)
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-In file included from /usr/include/c++/5/bits/stl_algobase.h:67:0,
-                 from /usr/include/c++/5/bits/char_traits.h:39,
-                 from /usr/include/c++/5/ios:40,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/stl_iterator.h:930:5: note: candidate: template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
-     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
-     ^
-/usr/include/c++/5/bits/stl_iterator.h:930:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:46: note:   mismatched types ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’ and ‘int’
-  string info = "Name: " + name + "; age: " + age;
-                                              ^
-make: *** [src/String Streams.o] Error 1
-16:17:10 **** Incremental Build of configuration Debug for project String Streams ****
-make all 
-Building file: ../src/String Streams.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/String Streams.d" -MT"src/String\ Streams.d" -o "src/String Streams.o" "../src/String Streams.cpp"
-../src/String Streams.cpp: In function ‘int main()’:
-../src/String Streams.cpp:18:50: error: no match for ‘operator+’ (operand types are ‘std::__cxx11::basic_string<char>’ and ‘int’)
-  stringstream info = "Name: " + name + "; age: " + age;
-                                                  ^
-In file included from /usr/include/c++/5/bits/stl_algobase.h:67:0,
-                 from /usr/include/c++/5/bits/char_traits.h:39,
-                 from /usr/include/c++/5/ios:40,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/stl_iterator.h:334:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
-     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
-     ^
-/usr/include/c++/5/bits/stl_iterator.h:334:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:52: note:   mismatched types ‘const std::reverse_iterator<_Iterator>’ and ‘int’
-  stringstream info = "Name: " + name + "; age: " + age;
-                                                    ^
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4783:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^
-/usr/include/c++/5/bits/basic_string.h:4783:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:52: note:   mismatched types ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’ and ‘int’
-  stringstream info = "Name: " + name + "; age: " + age;
-                                                    ^
-In file included from /usr/include/c++/5/string:53:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.tcc:1151:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(const _CharT* __lhs,
-     ^
-/usr/include/c++/5/bits/basic_string.tcc:1151:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:52: note:   mismatched types ‘const _CharT*’ and ‘std::__cxx11::basic_string<char>’
-  stringstream info = "Name: " + name + "; age: " + age;
-                                                    ^
-In file included from /usr/include/c++/5/string:53:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.tcc:1167:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
-     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
-     ^
-/usr/include/c++/5/bits/basic_string.tcc:1167:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:52: note:   mismatched types ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’ and ‘int’
-  stringstream info = "Name: " + name + "; age: " + age;
-                                                    ^
-src/subdir.mk:18: recipe for target 'src/String Streams.o' failed
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4820:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^
-/usr/include/c++/5/bits/basic_string.h:4820:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:52: note:   mismatched types ‘const _CharT*’ and ‘int’
-  stringstream info = "Name: " + name + "; age: " + age;
-                                                    ^
-In file included from /usr/include/c++/5/string:52:0,
-                 from /usr/include/c++/5/bits/locale_classes.h:40,
-                 from /usr/include/c++/5/bits/ios_base.h:41,
-                 from /usr/include/c++/5/ios:42,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/basic_string.h:4836:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
-     ^
-/usr/include/c++/5/bits/basic_string.h:4836:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:52: note:   deduced conflicting types for parameter ‘_CharT’ (‘char’ and ‘int’)
-  stringstream info = "Name: " + name + "; age: " + age;
-                                                    ^
-In file included from /usr/include/c++/5/bits/stl_algobase.h:67:0,
-                 from /usr/include/c++/5/bits/char_traits.h:39,
-                 from /usr/include/c++/5/ios:40,
-                 from /usr/include/c++/5/ostream:38,
-                 from /usr/include/c++/5/iostream:39,
-                 from ../src/String Streams.cpp:9:
-/usr/include/c++/5/bits/stl_iterator.h:930:5: note: candidate: template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
-     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
-     ^
-/usr/include/c++/5/bits/stl_iterator.h:930:5: note:   template argument deduction/substitution failed:
-../src/String Streams.cpp:18:52: note:   mismatched types ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’ and ‘int’
-  stringstream info = "Name: " + name + "; age: " + age;
-                                                    ^
-make: *** [src/String Streams.o] Error 1
-16:17:43 **** Incremental Build of configuration Debug for project String Streams ****
-make all 
-Building file: ../src/String Streams.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/String Streams.d" -MT"src/String\ Streams.d" -o "src/String Streams.o" "../src/String Streams.cpp"
-../src/String Streams.cpp: In function ‘int main()’:
-../src/String Streams.cpp:15:6: warning: unused variable ‘age’ [-Wunused-variable]
-  int age = 32;
-      ^
-Finished building: ../src/String Streams.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building target: String Streams
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "String Streams"  ./src/String\ Streams.o   
-Finished building target: String Streams
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-16:19:28 **** Incremental Build of configuration Debug for project String Streams ****
+20:12:56 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/String Streams.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/String Streams.d" -MT"src/String\ Streams.d" -o "src/String Streams.o" "../src/String Streams.cpp"
-Finished building: ../src/String Streams.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+../src/Arithmetic.cpp: In function ‘int main()’:
+../src/Arithmetic.cpp:44:33: error: invalid operands of types ‘double’ and ‘int’ to binary ‘operator%’
+  double equation = ((5.3 / 4) % 2) + (2.3 * 6);
+                                 ^
+src/subdir.mk:18: recipe for target 'src/Arithmetic.o' failed
+make: *** [src/Arithmetic.o] Error 1
+20:14:36 **** Incremental Build of configuration Debug for project Arithmetic ****
+make all 
+Building file: ../src/Arithmetic.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building target: String Streams
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "String Streams"  ./src/String\ Streams.o   
-Finished building target: String Streams
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-16:23:31 **** Build of configuration Debug for project Overloading Constructors ****
+20:14:46 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/Overloading Constructors.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
-Finished building: ../src/Overloading Constructors.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building target: Overloading Constructors
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o   
-Finished building target: Overloading Constructors
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
-16:28:33 **** Incremental Build of configuration Debug for project Overloading Constructors ****
+20:14:53 **** Incremental Build of configuration Debug for project Arithmetic ****
 make all 
-Building file: ../src/Overloading Constructors.cpp
+Building file: ../src/Arithmetic.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
-../src/Overloading Constructors.cpp: In function ‘int main()’:
-../src/Overloading Constructors.cpp:13:2: error: ‘Person’ was not declared in this scope
-  Person person1;
-  ^
-../src/Overloading Constructors.cpp:15:10: error: ‘person1’ was not declared in this scope
-  cout << person1.toString() << endl;
-          ^
-src/subdir.mk:21: recipe for target 'src/Overloading Constructors.o' failed
-make: *** [src/Overloading Constructors.o] Error 1
-16:28:51 **** Incremental Build of configuration Debug for project Overloading Constructors ****
-make all 
-Building file: ../src/Overloading Constructors.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
-Finished building: ../src/Overloading Constructors.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
+Finished building: ../src/Arithmetic.cpp
  
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-../src/Person.cpp: In member function ‘std::__cxx11::string Person::toString()’:
-../src/Person.cpp:24:1: error: expected ‘;’ before ‘}’ token
- }
- ^
-make: *** [src/Person.o] Error 1
-src/subdir.mk:28: recipe for target 'src/Person.o' failed
-16:30:30 **** Incremental Build of configuration Debug for project Overloading Constructors ****
-make all 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Overloading Constructors
+Building target: Arithmetic
 Invoking: Cross G++ Linker
-g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o ./src/Person.o   
-Finished building target: Overloading Constructors
- 
-16:36:04 **** Incremental Build of configuration Debug for project Overloading Constructors ****
-make all 
-Building file: ../src/Overloading Constructors.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
-Finished building: ../src/Overloading Constructors.cpp
- 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Overloading Constructors
-Invoking: Cross G++ Linker
-g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o ./src/Person.o   
-Finished building target: Overloading Constructors
- 
-16:40:06 **** Incremental Build of configuration Debug for project Overloading Constructors ****
-make all 
-Building file: ../src/Overloading Constructors.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
-../src/Overloading Constructors.cpp: In function ‘int main()’:
-../src/Overloading Constructors.cpp:18:2: error: expected ‘,’ or ‘;’ before ‘cout’
-  cout << person1.toString() << endl;
-  ^
-make: *** [src/Overloading Constructors.o] Error 1
-src/subdir.mk:21: recipe for target 'src/Overloading Constructors.o' failed
-16:41:00 **** Incremental Build of configuration Debug for project Overloading Constructors ****
-make all 
-Building file: ../src/Overloading Constructors.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
-Finished building: ../src/Overloading Constructors.cpp
- 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Overloading Constructors
-Invoking: Cross G++ Linker
-g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o ./src/Person.o   
-Finished building target: Overloading Constructors
- 
-18:50:00 **** Build of configuration Debug for project This ****
-make all 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building file: ../src/This.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
-Finished building: ../src/This.cpp
- 
-Building target: This
-Invoking: Cross G++ Linker
-g++  -o "This"  ./src/Person.o ./src/This.o   
-Finished building target: This
- 
-18:50:06 **** Incremental Build of configuration Debug for project This ****
-make all 
-make: Nothing to be done for 'all'.
-18:50:31 **** Incremental Build of configuration Debug for project This ****
-make all 
-Building file: ../src/This.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
-Finished building: ../src/This.cpp
- 
-Building target: This
-Invoking: Cross G++ Linker
-g++  -o "This"  ./src/Person.o ./src/This.o   
-Finished building target: This
- 
-18:53:03 **** Incremental Build of configuration Debug for project This ****
-make all 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-../src/Person.cpp: In constructor ‘Person::Person(std::__cxx11::string, int)’:
-../src/Person.cpp:20:39: error: invalid operands of types ‘const char [25]’ and ‘Person*’ to binary ‘operator+’
-  cout << "Memory loction of this: " + this << endl;
-                                       ^
-src/subdir.mk:21: recipe for target 'src/Person.o' failed
-make: *** [src/Person.o] Error 1
-18:53:35 **** Incremental Build of configuration Debug for project This ****
-make all 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: This
-Invoking: Cross G++ Linker
-g++  -o "This"  ./src/Person.o ./src/This.o   
-Finished building target: This
- 
-18:54:18 **** Incremental Build of configuration Debug for project This ****
-make all 
-Building file: ../src/This.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
-Finished building: ../src/This.cpp
- 
-Building target: This
-Invoking: Cross G++ Linker
-g++  -o "This"  ./src/Person.o ./src/This.o   
-Finished building target: This
- 
-18:55:43 **** Incremental Build of configuration Debug for project This ****
-make all 
-Building file: ../src/This.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
-Finished building: ../src/This.cpp
- 
-Building target: This
-Invoking: Cross G++ Linker
-g++  -o "This"  ./src/Person.o ./src/This.o   
-Finished building target: This
- 
-19:20:48 **** Build of configuration Debug for project Constructor Initialization Lists ****
-make all 
-Building file: ../src/Constructor Initialization Lists.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Constructor Initialization Lists.d" -MT"src/Constructor\ Initialization\ Lists.d" -o "src/Constructor Initialization Lists.o" "../src/Constructor Initialization Lists.cpp"
-Finished building: ../src/Constructor Initialization Lists.cpp
- 
-Building target: Constructor Initialization Lists
-Invoking: Cross G++ Linker
-g++  -o "Constructor Initialization Lists"  ./src/Constructor\ Initialization\ Lists.o   
-Finished building target: Constructor Initialization Lists
- 
-19:27:24 **** Incremental Build of configuration Debug for project Constructor Initialization Lists ****
-make all 
-Building file: ../src/Constructor Initialization Lists.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Constructor Initialization Lists.d" -MT"src/Constructor\ Initialization\ Lists.d" -o "src/Constructor Initialization Lists.o" "../src/Constructor Initialization Lists.cpp"
-Finished building: ../src/Constructor Initialization Lists.cpp
- 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Constructor Initialization Lists
-Invoking: Cross G++ Linker
-g++  -o "Constructor Initialization Lists"  ./src/Constructor\ Initialization\ Lists.o ./src/Person.o   
-Finished building target: Constructor Initialization Lists
- 
-19:30:01 **** Incremental Build of configuration Debug for project Constructor Initialization Lists ****
-make all 
-Building file: ../src/Constructor Initialization Lists.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Constructor Initialization Lists.d" -MT"src/Constructor\ Initialization\ Lists.d" -o "src/Constructor Initialization Lists.o" "../src/Constructor Initialization Lists.cpp"
-Finished building: ../src/Constructor Initialization Lists.cpp
- 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Constructor Initialization Lists
-Invoking: Cross G++ Linker
-g++  -o "Constructor Initialization Lists"  ./src/Constructor\ Initialization\ Lists.o ./src/Person.o   
-Finished building target: Constructor Initialization Lists
- 
-19:35:32 **** Build of configuration Debug for project Pointers ****
-make all 
-Building file: ../src/Pointers.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers.d" -MT"src/Pointers.d" -o "src/Pointers.o" "../src/Pointers.cpp"
-Finished building: ../src/Pointers.cpp
- 
-Building target: Pointers
-Invoking: Cross G++ Linker
-g++  -o "Pointers"  ./src/Pointers.o   
-Finished building target: Pointers
- 
-19:35:37 **** Incremental Build of configuration Debug for project Pointers ****
-make all 
-Building file: ../src/Pointers.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers.d" -MT"src/Pointers.d" -o "src/Pointers.o" "../src/Pointers.cpp"
-Finished building: ../src/Pointers.cpp
- 
-Building target: Pointers
-Invoking: Cross G++ Linker
-g++  -o "Pointers"  ./src/Pointers.o   
-Finished building target: Pointers
- 
-19:36:15 **** Incremental Build of configuration Debug for project Pointers ****
-make all 
-Building file: ../src/Pointers.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers.d" -MT"src/Pointers.d" -o "src/Pointers.o" "../src/Pointers.cpp"
-Finished building: ../src/Pointers.cpp
- 
-Building target: Pointers
-Invoking: Cross G++ Linker
-g++  -o "Pointers"  ./src/Pointers.o   
-Finished building target: Pointers
- 
-19:36:41 **** Incremental Build of configuration Debug for project Pointers ****
-make all 
-Building file: ../src/Pointers.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers.d" -MT"src/Pointers.d" -o "src/Pointers.o" "../src/Pointers.cpp"
-Finished building: ../src/Pointers.cpp
- 
-Building target: Pointers
-Invoking: Cross G++ Linker
-g++  -o "Pointers"  ./src/Pointers.o   
-Finished building target: Pointers
- 
-19:41:08 **** Incremental Build of configuration Debug for project Pointers ****
-make all 
-Building file: ../src/Pointers.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers.d" -MT"src/Pointers.d" -o "src/Pointers.o" "../src/Pointers.cpp"
-Finished building: ../src/Pointers.cpp
- 
-Building target: Pointers
-Invoking: Cross G++ Linker
-g++  -o "Pointers"  ./src/Pointers.o   
-Finished building target: Pointers
- 
-19:43:07 **** Incremental Build of configuration Debug for project Pointers ****
-make all 
-Building file: ../src/Pointers.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers.d" -MT"src/Pointers.d" -o "src/Pointers.o" "../src/Pointers.cpp"
-Finished building: ../src/Pointers.cpp
- 
-Building target: Pointers
-Invoking: Cross G++ Linker
-g++  -o "Pointers"  ./src/Pointers.o   
-Finished building target: Pointers
- 
-19:43:44 **** Incremental Build of configuration Debug for project Pointers ****
-make all 
-Building file: ../src/Pointers.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers.d" -MT"src/Pointers.d" -o "src/Pointers.o" "../src/Pointers.cpp"
-Finished building: ../src/Pointers.cpp
- 
-Building target: Pointers
-Invoking: Cross G++ Linker
-g++  -o "Pointers"  ./src/Pointers.o   
-Finished building target: Pointers
+g++  -o "Arithmetic"  ./src/Arithmetic.o   
+Finished building target: Arithmetic
  
