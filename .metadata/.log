@@ -162,3 +162,15 @@ java.io.FileNotFoundException: /home/hienja/learningCPP/String Streams/Debug/Str
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-13 16:22:59.612
 !MESSAGE Indexed 'Overloading Constructors' (1 sources, 0 headers) in 0.004 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-13 16:51:42.480
+!MESSAGE Indexed 'This' (1 sources, 104 headers) in 1.94 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)
+!SESSION 2016-12-13 17:06:34.798 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-12-13 17:06:39.779
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

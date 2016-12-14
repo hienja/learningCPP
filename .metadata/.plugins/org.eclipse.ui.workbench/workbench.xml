@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="20" version="2.0">
+<workbench progressCount="25" version="2.0">
 <workbenchAdvisor/>
 <window height="795" maximized="true" width="1018" x="67" y="24">
 <fastViewData fastViewLocation="1024"/>
@@ -40,6 +40,9 @@
 <part id="8"/>
 <part id="9"/>
 <part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
 </presentation>
 </folder>
 </info>
@@ -76,7 +79,7 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Data Members/src/Cat.h"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="221" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Constructor and Destructors.cpp" partName="Constructor and Destructors.cpp" path="/home/hienja/learningCPP/Constructor and Destructors/src/Constructor and Destructors.cpp" title="Constructor and Destructors.cpp" tooltip="Constructor and Destructors/src/Constructor and Destructors.cpp" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Constructor and Destructors.cpp" partName="Constructor and Destructors.cpp" path="/home/hienja/learningCPP/Constructor and Destructors/src/Constructor and Destructors.cpp" title="Constructor and Destructors.cpp" tooltip="Constructor and Destructors/src/Constructor and Destructors.cpp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Constructor and Destructors/src/Constructor and Destructors.cpp"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="521" selectionTopPixel="0"/>
 </editor>
@@ -88,15 +91,25 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Constructor and Destructors/src/Cat.h"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="193" selectionTopPixel="0"/>
 </editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="This.cpp" partName="This.cpp" path="/home/hienja/learningCPP/This/src/This.cpp" title="This.cpp" tooltip="This/src/This.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/This/src/This.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="492" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Person.h" partName="Person.h" path="/home/hienja/learningCPP/This/src/Person.h" title="Person.h" tooltip="This/src/Person.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/This/src/Person.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="193" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Person.cpp" partName="Person.cpp" path="/home/hienja/learningCPP/This/src/Person.cpp" title="Person.cpp" tooltip="This/src/Person.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/This/src/Person.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="200" selectionTopPixel="0"/>
+</editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Errors"/>
-<category IMemento.internal.id="Errors (3 items)"/>
-<category IMemento.internal.id="Warnings"/>
+<category IMemento.internal.id="Errors (9 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="435" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -165,43 +178,30 @@
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="org.eclipse.ui.views.TaskList"/>
 <fastViewBars/>
-<layout>
-<mainWindow>
-<info folder="true" part="topLeft">
-<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@3e6f3bae" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3e6f3bae" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25940594" ratioLeft="262" ratioRight="748" relationship="2" relative="topLeft"/>
-<info folder="true" part="bottomRight" ratio="0.6596386" ratioLeft="438" ratioRight="226" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.TaskList" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<info folder="true" part="bottomRight" ratio="0.6596386" ratioLeft="438" ratioRight="226" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.TaskList" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="bottomLeft" ratio="0.5" ratioLeft="332" ratioRight="332" relationship="4" relative="topLeft">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info folder="true" part="bottomLeft" ratio="0.5" ratioLeft="332" ratioRight="332" relationship="4" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
@@ -253,9 +253,9 @@
 <new_wizard_action id="org.eclipse.cdt.ui.wizards.NewClassCreationWizard"/>
 <perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
 <perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
-<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <view id="org.eclipse.ui.navigator.ProjectExplorer"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.ui.views.TaskList"/>
@@ -316,162 +316,162 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Data Members/src/Data Members.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Data Members/src/Cat.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Data Members/src/Cat.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Constructor and Destructors/src/Constructor and Destructors.cpp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Constructor and Destructors/src/Cat.cpp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Constructor and Destructors/src/Cat.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/This/src/This.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/This/src/Person.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/This/src/Person.cpp"/>
 </editors>
-<item historyLabel="Data Members.cpp" index="0">
-<position info="not_deleted" x="453" y="0"/>
-</item>
-<item historyLabel="Cat.cpp" index="1">
-<position info="not_deleted" x="320" y="0"/>
-</item>
 <item historyLabel="Cat.h" index="2">
-<position info="not_deleted" x="135" y="0"/>
-</item>
-<item historyLabel="Cat.cpp" index="1">
-<position info="not_deleted" x="316" y="0"/>
-</item>
-<item historyLabel="Cat.h" index="2">
-<position info="not_deleted" x="135" y="0"/>
-</item>
-<item historyLabel="Cat.cpp" index="1">
-<position info="not_deleted" x="316" y="0"/>
-</item>
-<item historyLabel="Data Members.cpp" index="0">
-<position info="not_deleted" x="454" y="0"/>
-</item>
-<item historyLabel="Cat.cpp" index="1">
-<position info="not_deleted" x="293" y="0"/>
-</item>
-<item historyLabel="Cat.h" index="2">
-<position info="not_deleted" x="174" y="0"/>
-</item>
-<item historyLabel="Data Members.cpp" index="0">
-<position info="not_deleted" x="454" y="0"/>
-</item>
-<item historyLabel="Cat.cpp" index="1">
-<position info="not_deleted" x="321" y="0"/>
-</item>
-<item historyLabel="Cat.h" index="2">
-<position info="not_deleted" x="221" y="0"/>
-</item>
-<item historyLabel="Data Members.cpp" index="0">
-<position info="not_deleted" x="391" y="0"/>
-</item>
-<item historyLabel="Constructor and Destructors.cpp" index="3">
-<position info="not_deleted" x="79" y="0"/>
-</item>
-<item historyLabel="Cat.cpp" index="4">
 <position info="not_deleted" x="3" y="0"/>
 </item>
-<item historyLabel="Constructor and Destructors.cpp" index="3">
-<position info="not_deleted" x="511" y="0"/>
-</item>
-<item historyLabel="Cat.h" index="5">
-<position info="not_deleted" x="3" y="0"/>
-</item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="168" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="303" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="168" y="0"/>
 </item>
-<item historyLabel="Constructor and Destructors.cpp" index="3">
+<item historyLabel="Constructor and Destructors.cpp" index="0">
 <position info="not_deleted" x="480" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="303" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="217" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="298" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="168" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="298" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="168" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="298" y="0"/>
 </item>
-<item historyLabel="Constructor and Destructors.cpp" index="3">
+<item historyLabel="Constructor and Destructors.cpp" index="0">
 <position info="not_deleted" x="521" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="298" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="168" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="298" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="197" y="0"/>
 </item>
-<item historyLabel="Constructor and Destructors.cpp" index="3">
+<item historyLabel="Constructor and Destructors.cpp" index="0">
 <position info="not_deleted" x="521" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="197" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="168" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="11" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="157" y="0"/>
 </item>
-<item historyLabel="Constructor and Destructors.cpp" index="3">
+<item historyLabel="Constructor and Destructors.cpp" index="0">
 <position info="not_deleted" x="521" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="11" y="0"/>
 </item>
-<item historyLabel="Constructor and Destructors.cpp" index="3">
+<item historyLabel="Constructor and Destructors.cpp" index="0">
 <position info="not_deleted" x="521" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="11" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="194" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="193" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="194" y="0"/>
 </item>
-<item historyLabel="Cat.h" index="5">
+<item historyLabel="Cat.h" index="2">
 <position info="not_deleted" x="193" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="144" y="0"/>
 </item>
-<item historyLabel="Constructor and Destructors.cpp" index="3">
+<item historyLabel="Constructor and Destructors.cpp" index="0">
 <position info="not_deleted" x="521" y="0"/>
 </item>
-<item historyLabel="Cat.cpp" index="4">
+<item historyLabel="Cat.cpp" index="1">
 <position info="not_deleted" x="182" y="0"/>
 </item>
-<item active="true" historyLabel="Constructor and Destructors.cpp" index="3">
+<item historyLabel="Constructor and Destructors.cpp" index="0">
 <position info="not_deleted" x="521" y="0"/>
+</item>
+<item historyLabel="This.cpp" index="3">
+<position info="not_deleted" x="79" y="0"/>
+</item>
+<item historyLabel="Person.h" index="4">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="Person.cpp" index="5">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="This.cpp" index="3">
+<position info="not_deleted" x="79" y="0"/>
+</item>
+<item historyLabel="Person.h" index="4">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="Person.cpp" index="5">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="Person.h" index="4">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="Person.cpp" index="5">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="Person.cpp" index="5">
+<position info="not_deleted" x="197" y="0"/>
+</item>
+<item historyLabel="Person.h" index="4">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="Person.h" index="4">
+<position info="not_deleted" x="222" y="28"/>
+</item>
+<item historyLabel="Person.cpp" index="5">
+<position info="not_deleted" x="277" y="0"/>
+</item>
+<item historyLabel="This.cpp" index="3">
+<position info="not_deleted" x="370" y="0"/>
+</item>
+<item historyLabel="Person.h" index="4">
+<position info="not_deleted" x="193" y="0"/>
+</item>
+<item historyLabel="Person.cpp" index="5">
+<position info="not_deleted" x="200" y="0"/>
+</item>
+<item active="true" historyLabel="This.cpp" index="3">
+<position info="not_deleted" x="370" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -490,6 +490,15 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Person.cpp" tooltip="This/src/Person.cpp">
+<persistable path="/This/src/Person.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Person.h" tooltip="This/src/Person.h">
+<persistable path="/This/src/Person.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="This.cpp" tooltip="This/src/This.cpp">
+<persistable path="/This/src/This.cpp"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.h" tooltip="Constructor and Destructors/src/Cat.h">
 <persistable path="/Constructor and Destructors/src/Cat.h"/>
 </file>

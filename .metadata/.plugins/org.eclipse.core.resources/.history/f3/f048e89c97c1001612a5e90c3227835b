@@ -1,0 +1,16 @@
+/*
+ * Person.h
+ *
+ *  Created on: Dec 13, 2016
+ *      Author: hienja
+ */
+
+#ifndef PERSON_H_
+#define PERSON_H_
+
+class Person {
+public:
+	Person();
+};
+
+#endif /* PERSON_H_ */

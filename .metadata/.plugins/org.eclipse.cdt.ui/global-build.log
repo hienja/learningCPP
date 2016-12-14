@@ -886,3 +886,82 @@ Invoking: Cross G++ Linker
 g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o ./src/Person.o   
 Finished building target: Overloading Constructors
  
+18:50:00 **** Build of configuration Debug for project This ****
+make all 
+Building file: ../src/Person.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
+Finished building: ../src/Person.cpp
+ 
+Building file: ../src/This.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
+Finished building: ../src/This.cpp
+ 
+Building target: This
+Invoking: Cross G++ Linker
+g++  -o "This"  ./src/Person.o ./src/This.o   
+Finished building target: This
+ 
+18:50:06 **** Incremental Build of configuration Debug for project This ****
+make all 
+make: Nothing to be done for 'all'.
+18:50:31 **** Incremental Build of configuration Debug for project This ****
+make all 
+Building file: ../src/This.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
+Finished building: ../src/This.cpp
+ 
+Building target: This
+Invoking: Cross G++ Linker
+g++  -o "This"  ./src/Person.o ./src/This.o   
+Finished building target: This
+ 
+18:53:03 **** Incremental Build of configuration Debug for project This ****
+make all 
+Building file: ../src/Person.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
+../src/Person.cpp: In constructor ‘Person::Person(std::__cxx11::string, int)’:
+../src/Person.cpp:20:39: error: invalid operands of types ‘const char [25]’ and ‘Person*’ to binary ‘operator+’
+  cout << "Memory loction of this: " + this << endl;
+                                       ^
+src/subdir.mk:21: recipe for target 'src/Person.o' failed
+make: *** [src/Person.o] Error 1
+18:53:35 **** Incremental Build of configuration Debug for project This ****
+make all 
+Building file: ../src/Person.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
+Finished building: ../src/Person.cpp
+ 
+Building target: This
+Invoking: Cross G++ Linker
+g++  -o "This"  ./src/Person.o ./src/This.o   
+Finished building target: This
+ 
+18:54:18 **** Incremental Build of configuration Debug for project This ****
+make all 
+Building file: ../src/This.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
+Finished building: ../src/This.cpp
+ 
+Building target: This
+Invoking: Cross G++ Linker
+g++  -o "This"  ./src/Person.o ./src/This.o   
+Finished building target: This
+ 
+18:55:43 **** Incremental Build of configuration Debug for project This ****
+make all 
+Building file: ../src/This.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
+Finished building: ../src/This.cpp
+ 
+Building target: This
+Invoking: Cross G++ Linker
+g++  -o "This"  ./src/Person.o ./src/This.o   
+Finished building target: This
+ 

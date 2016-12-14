@@ -1,0 +1,15 @@
+18:55:43 **** Incremental Build of configuration Debug for project This ****
+make all 
+Building file: ../src/This.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/This.d" -MT"src/This.d" -o "src/This.o" "../src/This.cpp"
+Finished building: ../src/This.cpp
+ 
+Building target: This
+Invoking: Cross G++ Linker
+g++  -o "This"  ./src/Person.o ./src/This.o   
+Finished building target: This
+ 
+
+18:55:44 Build Finished (took 385ms)
+
