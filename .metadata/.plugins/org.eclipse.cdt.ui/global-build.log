@@ -787,3 +787,102 @@ Invoking: Cross G++ Linker
 g++  -o "String Streams"  ./src/String\ Streams.o   
 Finished building target: String Streams
  
+16:23:31 **** Build of configuration Debug for project Overloading Constructors ****
+make all 
+Building file: ../src/Overloading Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
+Finished building: ../src/Overloading Constructors.cpp
+ 
+Building target: Overloading Constructors
+Invoking: Cross G++ Linker
+g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o   
+Finished building target: Overloading Constructors
+ 
+16:28:33 **** Incremental Build of configuration Debug for project Overloading Constructors ****
+make all 
+Building file: ../src/Overloading Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
+../src/Overloading Constructors.cpp: In function ‘int main()’:
+../src/Overloading Constructors.cpp:13:2: error: ‘Person’ was not declared in this scope
+  Person person1;
+  ^
+../src/Overloading Constructors.cpp:15:10: error: ‘person1’ was not declared in this scope
+  cout << person1.toString() << endl;
+          ^
+src/subdir.mk:21: recipe for target 'src/Overloading Constructors.o' failed
+make: *** [src/Overloading Constructors.o] Error 1
+16:28:51 **** Incremental Build of configuration Debug for project Overloading Constructors ****
+make all 
+Building file: ../src/Overloading Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
+Finished building: ../src/Overloading Constructors.cpp
+ 
+Building file: ../src/Person.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
+../src/Person.cpp: In member function ‘std::__cxx11::string Person::toString()’:
+../src/Person.cpp:24:1: error: expected ‘;’ before ‘}’ token
+ }
+ ^
+make: *** [src/Person.o] Error 1
+src/subdir.mk:28: recipe for target 'src/Person.o' failed
+16:30:30 **** Incremental Build of configuration Debug for project Overloading Constructors ****
+make all 
+Building file: ../src/Person.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
+Finished building: ../src/Person.cpp
+ 
+Building target: Overloading Constructors
+Invoking: Cross G++ Linker
+g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o ./src/Person.o   
+Finished building target: Overloading Constructors
+ 
+16:36:04 **** Incremental Build of configuration Debug for project Overloading Constructors ****
+make all 
+Building file: ../src/Overloading Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
+Finished building: ../src/Overloading Constructors.cpp
+ 
+Building file: ../src/Person.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
+Finished building: ../src/Person.cpp
+ 
+Building target: Overloading Constructors
+Invoking: Cross G++ Linker
+g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o ./src/Person.o   
+Finished building target: Overloading Constructors
+ 
+16:40:06 **** Incremental Build of configuration Debug for project Overloading Constructors ****
+make all 
+Building file: ../src/Overloading Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
+../src/Overloading Constructors.cpp: In function ‘int main()’:
+../src/Overloading Constructors.cpp:18:2: error: expected ‘,’ or ‘;’ before ‘cout’
+  cout << person1.toString() << endl;
+  ^
+make: *** [src/Overloading Constructors.o] Error 1
+src/subdir.mk:21: recipe for target 'src/Overloading Constructors.o' failed
+16:41:00 **** Incremental Build of configuration Debug for project Overloading Constructors ****
+make all 
+Building file: ../src/Overloading Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Overloading Constructors.d" -MT"src/Overloading\ Constructors.d" -o "src/Overloading Constructors.o" "../src/Overloading Constructors.cpp"
+Finished building: ../src/Overloading Constructors.cpp
+ 
+Building file: ../src/Person.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
+Finished building: ../src/Person.cpp
+ 
+Building target: Overloading Constructors
+Invoking: Cross G++ Linker
+g++  -o "Overloading Constructors"  ./src/Overloading\ Constructors.o ./src/Person.o   
+Finished building target: Overloading Constructors
+ 
