@@ -1,0 +1,22 @@
+20:34:42 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+make all 
+Building file: ../src/Pointers and Arrays.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
+../src/Pointers and Arrays.cpp: In function ‘int main()’:
+../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
+                   ^
+../src/Pointers and Arrays.cpp:22:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
+                   ^
+Finished building: ../src/Pointers and Arrays.cpp
+ 
+Building target: Pointers and Arrays
+Invoking: Cross G++ Linker
+g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
+Finished building target: Pointers and Arrays
+ 
+
+20:34:43 Build Finished (took 434ms)
+

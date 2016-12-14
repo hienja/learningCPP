@@ -1,0 +1,16 @@
+//============================================================================
+// Name        : Pointers.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	string texts[] = {"one", "two", "three"};
+	cout << sizeof(texts)/sizeof(string) << endl;
+	return 0;
+}
