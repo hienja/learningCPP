@@ -387,3 +387,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-15 19:34:40.241
 !MESSAGE Indexed 'Char Arrays' (1 sources, 0 headers) in 0.032 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-15 19:46:50.114
+!MESSAGE Indexed 'Reversing a String' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-15 19:47:28.994
+!MESSAGE Indexed 'Reversing a String' (1 sources, 104 headers) in 2.59 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)
