@@ -1,743 +1,109 @@
-19:52:17 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
+20:19:53 **** Incremental Build of configuration Debug for project The Const Keyword ****
 make all 
-Building file: ../src/Cat.cpp
+Building file: ../src/The Const Keyword.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
-Finished building: ../src/Cat.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+Finished building: ../src/The Const Keyword.cpp
  
-Building file: ../src/Constructor and Destructors.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Constructor and Destructors.d" -MT"src/Constructor\ and\ Destructors.d" -o "src/Constructor and Destructors.o" "../src/Constructor and Destructors.cpp"
-Finished building: ../src/Constructor and Destructors.cpp
- 
-Building target: Constructor and Destructors
+Building target: The Const Keyword
 Invoking: Cross G++ Linker
-g++  -o "Constructor and Destructors"  ./src/Cat.o ./src/Constructor\ and\ Destructors.o   
-Finished building target: Constructor and Destructors
+g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
+Finished building target: The Const Keyword
  
-19:52:21 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
+20:19:56 **** Incremental Build of configuration Debug for project The Const Keyword ****
 make all 
 make: Nothing to be done for 'all'.
-19:56:06 **** Build of configuration Debug for project Arithmetic ****
+20:20:14 **** Incremental Build of configuration Debug for project The Const Keyword ****
 make all 
-Building file: ../src/Arithmetic.cpp
+Building file: ../src/The Const Keyword.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-19:56:12 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-19:56:29 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-19:57:43 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-19:58:22 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-19:58:58 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-19:59:54 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-20:01:20 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-20:12:56 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-../src/Arithmetic.cpp: In function ‘int main()’:
-../src/Arithmetic.cpp:44:33: error: invalid operands of types ‘double’ and ‘int’ to binary ‘operator%’
-  double equation = ((5.3 / 4) % 2) + (2.3 * 6);
-                                 ^
-src/subdir.mk:18: recipe for target 'src/Arithmetic.o' failed
-make: *** [src/Arithmetic.o] Error 1
-20:14:36 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-20:14:46 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-20:14:53 **** Incremental Build of configuration Debug for project Arithmetic ****
-make all 
-Building file: ../src/Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Arithmetic.d" -MT"src/Arithmetic.d" -o "src/Arithmetic.o" "../src/Arithmetic.cpp"
-Finished building: ../src/Arithmetic.cpp
- 
-Building target: Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Arithmetic"  ./src/Arithmetic.o   
-Finished building target: Arithmetic
- 
-20:19:23 **** Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:19:26 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-make: Nothing to be done for 'all'.
-20:21:09 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:21:12 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-make: Nothing to be done for 'all'.
-20:22:31 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:14:20: error: cannot convert ‘std::__cxx11::string (*)[3] {aka std::__cxx11::basic_string<char> (*)[3]}’ to ‘std::__cxx11::string* {aka std::__cxx11::basic_string<char>*}’ in initialization
-  string *ptexts = &texts;
-                    ^
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-src/subdir.mk:18: recipe for target 'src/Pointers and Arrays.o' failed
-make: *** [src/Pointers and Arrays.o] Error 1
-20:22:40 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:23:54 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:20:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:24:05 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:22:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:24:30 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:22:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:28:29 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:22:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:43:2: error: expected primary-expression before ‘return’
-  return 0;
-  ^
-src/subdir.mk:18: recipe for target 'src/Pointers and Arrays.o' failed
-make: *** [src/Pointers and Arrays.o] Error 1
-20:28:46 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:22:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:30:38 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:22:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:31:04 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:22:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:34:42 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
-make all 
-Building file: ../src/Pointers and Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointers and Arrays.d" -MT"src/Pointers\ and\ Arrays.d" -o "src/Pointers and Arrays.o" "../src/Pointers and Arrays.cpp"
-../src/Pointers and Arrays.cpp: In function ‘int main()’:
-../src/Pointers and Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-../src/Pointers and Arrays.cpp:22:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(texts)/sizeof(string); i++) {
-                   ^
-Finished building: ../src/Pointers and Arrays.cpp
- 
-Building target: Pointers and Arrays
-Invoking: Cross G++ Linker
-g++  -o "Pointers and Arrays"  ./src/Pointers\ and\ Arrays.o   
-Finished building target: Pointers and Arrays
- 
-20:39:09 **** Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:39:11 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-make: Nothing to be done for 'all'.
-20:39:34 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:39:52 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:40:11 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:40:57 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:41:34 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:44:10 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-../src/Pointer Arithmetic.cpp: In function ‘int main()’:
-../src/Pointer Arithmetic.cpp:24:12: error: ‘text’ was not declared in this scope
-  pTexts = &text[0];
-            ^
-../src/Pointer Arithmetic.cpp:25:15: error: cannot convert ‘bool’ to ‘std::__cxx11::string* {aka std::__cxx11::basic_string<char>*}’ in assignment
-  while(pTexts =! pEnd) {
-               ^
-../src/Pointer Arithmetic.cpp:28:2: error: expected ‘;’ before ‘}’ token
-  }
-  ^
-src/subdir.mk:18: recipe for target 'src/Pointer Arithmetic.o' failed
-make: *** [src/Pointer Arithmetic.o] Error 1
-20:44:52 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:46:12 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:46:35 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:48:18 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:48:42 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-Building file: ../src/Pointer Arithmetic.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Pointer Arithmetic.d" -MT"src/Pointer\ Arithmetic.d" -o "src/Pointer Arithmetic.o" "../src/Pointer Arithmetic.cpp"
-Finished building: ../src/Pointer Arithmetic.cpp
- 
-Building target: Pointer Arithmetic
-Invoking: Cross G++ Linker
-g++  -o "Pointer Arithmetic"  ./src/Pointer\ Arithmetic.o   
-Finished building target: Pointer Arithmetic
- 
-20:49:11 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-make: Nothing to be done for 'all'.
-19:36:48 **** Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-Finished building: ../src/Char Arrays.cpp
- 
-Building target: Char Arrays
-Invoking: Cross G++ Linker
-g++  -o "Char Arrays"  ./src/Char\ Arrays.o   
-Finished building target: Char Arrays
- 
-19:36:55 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-../src/Char Arrays.cpp: In function ‘int main()’:
-../src/Char Arrays.cpp:13:40: error: too many initializers for ‘char []’
-  char text[] = {"h", "e", "l", "l", "o"};
-                                        ^
-src/subdir.mk:18: recipe for target 'src/Char Arrays.o' failed
-make: *** [src/Char Arrays.o] Error 1
-19:39:53 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-../src/Char Arrays.cpp: In function ‘int main()’:
-../src/Char Arrays.cpp:14:14: error: expected initializer before string constant
-  char text[] "hello";
-              ^
-../src/Char Arrays.cpp:16:10: error: ‘text’ was not declared in this scope
-  cout << text << endl;
-          ^
-src/subdir.mk:18: recipe for target 'src/Char Arrays.o' failed
-make: *** [src/Char Arrays.o] Error 1
-19:40:03 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-Finished building: ../src/Char Arrays.cpp
- 
-Building target: Char Arrays
-Invoking: Cross G++ Linker
-g++  -o "Char Arrays"  ./src/Char\ Arrays.o   
-Finished building target: Char Arrays
- 
-19:41:20 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-../src/Char Arrays.cpp: In function ‘int main()’:
-../src/Char Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(text)/sizeof(char); i++) {
-                   ^
-Finished building: ../src/Char Arrays.cpp
- 
-Building target: Char Arrays
-Invoking: Cross G++ Linker
-g++  -o "Char Arrays"  ./src/Char\ Arrays.o   
-Finished building target: Char Arrays
- 
-19:41:37 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-../src/Char Arrays.cpp: In function ‘int main()’:
-../src/Char Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(text)/sizeof(char); i++) {
-                   ^
-Finished building: ../src/Char Arrays.cpp
- 
-Building target: Char Arrays
-Invoking: Cross G++ Linker
-g++  -o "Char Arrays"  ./src/Char\ Arrays.o   
-Finished building target: Char Arrays
- 
-19:41:59 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-../src/Char Arrays.cpp: In function ‘int main()’:
-../src/Char Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(text)/sizeof(char); i++) {
-                   ^
-Finished building: ../src/Char Arrays.cpp
- 
-Building target: Char Arrays
-Invoking: Cross G++ Linker
-g++  -o "Char Arrays"  ./src/Char\ Arrays.o   
-Finished building target: Char Arrays
- 
-19:43:53 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-../src/Char Arrays.cpp: In function ‘int main()’:
-../src/Char Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(text)/sizeof(char); i++) {
-                   ^
-Finished building: ../src/Char Arrays.cpp
- 
-Building target: Char Arrays
-Invoking: Cross G++ Linker
-g++  -o "Char Arrays"  ./src/Char\ Arrays.o   
-Finished building target: Char Arrays
- 
-19:44:31 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-../src/Char Arrays.cpp: In function ‘int main()’:
-../src/Char Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(text)/sizeof(char); i++) {
-                   ^
-Finished building: ../src/Char Arrays.cpp
- 
-Building target: Char Arrays
-Invoking: Cross G++ Linker
-g++  -o "Char Arrays"  ./src/Char\ Arrays.o   
-Finished building target: Char Arrays
- 
-19:52:17 **** Build of configuration Debug for project Reversing a String ****
-make all 
-Building file: ../src/Reversing a String.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Reversing a String.d" -MT"src/Reversing\ a\ String.d" -o "src/Reversing a String.o" "../src/Reversing a String.cpp"
-../src/Reversing a String.cpp: In function ‘int main()’:
-../src/Reversing a String.cpp:15:8: warning: unused variable ‘pText’ [-Wunused-variable]
-  char *pText = text;
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+../src/The Const Keyword.cpp: In function ‘int main()’:
+../src/The Const Keyword.cpp:26:8: error: assignment of read-only variable ‘value’
+  value = 10;
         ^
-Finished building: ../src/Reversing a String.cpp
- 
-Building target: Reversing a String
-Invoking: Cross G++ Linker
-g++  -o "Reversing a String"  ./src/Reversing\ a\ String.o   
-Finished building target: Reversing a String
- 
-19:52:24 **** Incremental Build of configuration Debug for project Reversing a String ****
+src/subdir.mk:18: recipe for target 'src/The Const Keyword.o' failed
+make: *** [src/The Const Keyword.o] Error 1
+20:23:19 **** Incremental Build of configuration Debug for project The Const Keyword ****
 make all 
-make: Nothing to be done for 'all'.
-19:54:37 **** Incremental Build of configuration Debug for project Reversing a String ****
-make all 
-Building file: ../src/Reversing a String.cpp
+Building file: ../src/The Const Keyword.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Reversing a String.d" -MT"src/Reversing\ a\ String.d" -o "src/Reversing a String.o" "../src/Reversing a String.cpp"
-Finished building: ../src/Reversing a String.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+Finished building: ../src/The Const Keyword.cpp
  
-Building target: Reversing a String
+Building target: The Const Keyword
 Invoking: Cross G++ Linker
-g++  -o "Reversing a String"  ./src/Reversing\ a\ String.o   
-Finished building target: Reversing a String
+g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
+Finished building target: The Const Keyword
  
-20:07:04 **** Build of configuration Debug for project References ****
+20:24:16 **** Incremental Build of configuration Debug for project The Const Keyword ****
 make all 
-Building file: ../src/References.cpp
+Building file: ../src/The Const Keyword.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/References.d" -MT"src/References.d" -o "src/References.o" "../src/References.cpp"
-Finished building: ../src/References.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+Finished building: ../src/The Const Keyword.cpp
  
-Building target: References
+Building target: The Const Keyword
 Invoking: Cross G++ Linker
-g++  -o "References"  ./src/References.o   
-Finished building target: References
+g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
+Finished building target: The Const Keyword
  
-20:07:07 **** Incremental Build of configuration Debug for project References ****
+20:25:57 **** Incremental Build of configuration Debug for project The Const Keyword ****
 make all 
-make: Nothing to be done for 'all'.
-20:07:51 **** Incremental Build of configuration Debug for project References ****
-make all 
-Building file: ../src/References.cpp
+Building file: ../src/The Const Keyword.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/References.d" -MT"src/References.d" -o "src/References.o" "../src/References.cpp"
-Finished building: ../src/References.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+Finished building: ../src/The Const Keyword.cpp
  
-Building target: References
+Building target: The Const Keyword
 Invoking: Cross G++ Linker
-g++  -o "References"  ./src/References.o   
-Finished building target: References
+g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
+Finished building target: The Const Keyword
  
-20:09:51 **** Incremental Build of configuration Debug for project References ****
+20:27:12 **** Incremental Build of configuration Debug for project The Const Keyword ****
 make all 
-Building file: ../src/References.cpp
+Building file: ../src/The Const Keyword.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/References.d" -MT"src/References.d" -o "src/References.o" "../src/References.cpp"
-Finished building: ../src/References.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+Finished building: ../src/The Const Keyword.cpp
  
-Building target: References
+Building target: The Const Keyword
 Invoking: Cross G++ Linker
-g++  -o "References"  ./src/References.o   
-Finished building target: References
+g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
+Finished building target: The Const Keyword
  
-20:10:11 **** Incremental Build of configuration Debug for project References ****
+20:27:32 **** Incremental Build of configuration Debug for project The Const Keyword ****
 make all 
-Building file: ../src/References.cpp
+Building file: ../src/The Const Keyword.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/References.d" -MT"src/References.d" -o "src/References.o" "../src/References.cpp"
-Finished building: ../src/References.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+Finished building: ../src/The Const Keyword.cpp
  
-Building target: References
+Building target: The Const Keyword
 Invoking: Cross G++ Linker
-g++  -o "References"  ./src/References.o   
-Finished building target: References
+g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
+Finished building target: The Const Keyword
+ 
+20:29:52 **** Incremental Build of configuration Debug for project The Const Keyword ****
+make all 
+Building file: ../src/The Const Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+../src/The Const Keyword.cpp: In function ‘int main()’:
+../src/The Const Keyword.cpp:40:10: error: assignment of read-only location ‘* pValue’
+  *pValue = 12;
+          ^
+src/subdir.mk:18: recipe for target 'src/The Const Keyword.o' failed
+make: *** [src/The Const Keyword.o] Error 1
+20:30:01 **** Incremental Build of configuration Debug for project The Const Keyword ****
+make all 
+Building file: ../src/The Const Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
+Finished building: ../src/The Const Keyword.cpp
+ 
+Building target: The Const Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
+Finished building target: The Const Keyword
  

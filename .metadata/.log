@@ -396,3 +396,6 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-15 20:05:54.180
 !MESSAGE Indexed 'References' (1 sources, 104 headers) in 2.43 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-15 20:13:06.355
+!MESSAGE Indexed 'The Const Keyword' (1 sources, 0 headers) in 0.005 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
