@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="26" version="2.0">
+<workbench progressCount="25" version="2.0">
 <workbenchAdvisor/>
-<window height="795" maximized="true" width="1018" x="67" y="24">
+<window height="904" maximized="true" width="767" x="67" y="24">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -19,6 +19,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="232" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -34,114 +35,29 @@
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-<part id="16"/>
-<part id="17"/>
-<part id="18"/>
-<part id="19"/>
-<part id="20"/>
-<part id="21"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Headers and Prototypes.cpp" partName="Headers and Prototypes.cpp" path="/home/hienja/learningCPP/Headers and Prototypes/src/Headers and Prototypes.cpp" title="Headers and Prototypes.cpp" tooltip="Headers and Prototypes/src/Headers and Prototypes.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Headers and Prototypes/src/Headers and Prototypes.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="369" selectionTopPixel="0"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelp.cpp" partName="BovadaHelp.cpp" title="BovadaHelp.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="2091" selectionTopPixel="970"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="utils.h" partName="utils.h" path="/home/hienja/learningCPP/Headers and Prototypes/src/utils.h" title="utils.h" tooltip="Headers and Prototypes/src/utils.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Headers and Prototypes/src/utils.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="108" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelpDlg.cpp" partName="BovadaHelpDlg.cpp" title="BovadaHelpDlg.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="1818" selectionTopPixel="1200"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Classes.cpp" partName="Classes.cpp" path="/home/hienja/learningCPP/Classes/src/Classes.cpp" title="Classes.cpp" tooltip="Classes/src/Classes.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Classes/src/Classes.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="426" selectionTopPixel="0"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="WinIme64.cpp" partName="WinIme64.cpp" title="WinIme64.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="10486" selectionTopPixel="6955"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.h" partName="Cat.h" path="/home/hienja/learningCPP/Classes/src/Cat.h" title="Cat.h" tooltip="Classes/src/Cat.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Classes/src/Cat.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="122" selectionTopPixel="0"/>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="WinIme64.vcxproj" partName="WinIme64.vcxproj" title="WinIme64.vcxproj" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.vcxproj" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.vcxproj"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1345"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.cpp" partName="Cat.cpp" path="/home/hienja/learningCPP/Classes/src/Cat.cpp" title="Cat.cpp" tooltip="Classes/src/Cat.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Classes/src/Cat.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="197" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Data Members.cpp" partName="Data Members.cpp" path="/home/hienja/learningCPP/Data Members/src/Data Members.cpp" title="Data Members.cpp" tooltip="Data Members/src/Data Members.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Data Members/src/Data Members.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="391" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.cpp" partName="Cat.cpp" path="/home/hienja/learningCPP/Data Members/src/Cat.cpp" title="Cat.cpp" tooltip="Data Members/src/Cat.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Data Members/src/Cat.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="321" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.h" partName="Cat.h" path="/home/hienja/learningCPP/Data Members/src/Cat.h" title="Cat.h" tooltip="Data Members/src/Cat.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Data Members/src/Cat.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="221" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Constructor and Destructors.cpp" partName="Constructor and Destructors.cpp" path="/home/hienja/learningCPP/Constructor and Destructors/src/Constructor and Destructors.cpp" title="Constructor and Destructors.cpp" tooltip="Constructor and Destructors/src/Constructor and Destructors.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Constructor and Destructors/src/Constructor and Destructors.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="521" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.cpp" partName="Cat.cpp" path="/home/hienja/learningCPP/Constructor and Destructors/src/Cat.cpp" title="Cat.cpp" tooltip="Constructor and Destructors/src/Cat.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Constructor and Destructors/src/Cat.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="182" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.h" partName="Cat.h" path="/home/hienja/learningCPP/Constructor and Destructors/src/Cat.h" title="Cat.h" tooltip="Constructor and Destructors/src/Cat.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Constructor and Destructors/src/Cat.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="193" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="This.cpp" partName="This.cpp" path="/home/hienja/learningCPP/This/src/This.cpp" title="This.cpp" tooltip="This/src/This.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/This/src/This.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="599" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Person.h" partName="Person.h" path="/home/hienja/learningCPP/This/src/Person.h" title="Person.h" tooltip="This/src/Person.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/This/src/Person.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="193" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Person.cpp" partName="Person.cpp" path="/home/hienja/learningCPP/This/src/Person.cpp" title="Person.cpp" tooltip="This/src/Person.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/This/src/Person.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="318" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Constructor Initialization Lists.cpp" partName="Constructor Initialization Lists.cpp" path="/home/hienja/learningCPP/Constructor Initialization Lists/src/Constructor Initialization Lists.cpp" title="Constructor Initialization Lists.cpp" tooltip="Constructor Initialization Lists/src/Constructor Initialization Lists.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Constructor Initialization Lists/src/Constructor Initialization Lists.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="524" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Person.cpp" partName="Person.cpp" path="/home/hienja/learningCPP/Constructor Initialization Lists/src/Person.cpp" title="Person.cpp" tooltip="Constructor Initialization Lists/src/Person.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Constructor Initialization Lists/src/Person.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="116" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Person.h" partName="Person.h" path="/home/hienja/learningCPP/Constructor Initialization Lists/src/Person.h" title="Person.h" tooltip="Constructor Initialization Lists/src/Person.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Constructor Initialization Lists/src/Person.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="302" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Pointers.cpp" partName="Pointers.cpp" path="/home/hienja/learningCPP/Pointers/src/Pointers.cpp" title="Pointers.cpp" tooltip="Pointers/src/Pointers.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Pointers/src/Pointers.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="456" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Overloading Constructors.cpp" partName="Overloading Constructors.cpp" path="/home/hienja/learningCPP/Overloading Constructors/src/Overloading Constructors.cpp" title="Overloading Constructors.cpp" tooltip="Overloading Constructors/src/Overloading Constructors.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Overloading Constructors/src/Overloading Constructors.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="79" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Getters and Setters.cpp" partName="Getters and Setters.cpp" path="/home/hienja/learningCPP/Getters and Setters/src/Getters and Setters.cpp" title="Getters and Setters.cpp" tooltip="Getters and Setters/src/Getters and Setters.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Getters and Setters/src/Getters and Setters.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="79" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Arithmetic.cpp" partName="Arithmetic.cpp" path="/home/hienja/learningCPP/Arithmetic/src/Arithmetic.cpp" title="Arithmetic.cpp" tooltip="Arithmetic/src/Arithmetic.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Arithmetic/src/Arithmetic.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="729" selectionTopPixel="145"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Pointers and Arrays.cpp" partName="Pointers and Arrays.cpp" path="/home/hienja/learningCPP/Pointers and Arrays/src/Pointers and Arrays.cpp" title="Pointers and Arrays.cpp" tooltip="Pointers and Arrays/src/Pointers and Arrays.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Pointers and Arrays/src/Pointers and Arrays.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="800" selectionTopPixel="0"/>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.sln" partName="BovadaHelp.sln" title="BovadaHelp.sln" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="64" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -150,8 +66,8 @@
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
 <category IMemento.internal.id="Errors"/>
-<category IMemento.internal.id="Errors (9 items)"/>
 <category IMemento.internal.id="Warnings"/>
+<category IMemento.internal.id="Warnings (2 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="435" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -184,7 +100,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.cdt.ui.CPerspective">
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="org.eclipse.cdt.ui.CPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -301,8 +217,8 @@
 <view id="org.eclipse.ui.navigator.ProjectExplorer"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.ui.views.TaskList"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="org.eclipse.cdt.make.ui.views.MakeView"/>
 <fastViewBars/>
@@ -358,165 +274,172 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Constructor Initialization Lists/src/Constructor Initialization Lists.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Constructor Initialization Lists/src/Person.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Constructor Initialization Lists/src/Person.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Pointers/src/Pointers.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Overloading Constructors/src/Overloading Constructors.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Getters and Setters/src/Getters and Setters.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Constructor and Destructors/src/Constructor and Destructors.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Arithmetic/src/Arithmetic.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Pointers and Arrays/src/Pointers and Arrays.cpp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.vcxproj"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.h"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/resource.h"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.h"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.aps"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.rc"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.cpp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.h"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/rapidjson/pointer.h"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/stdafx.cpp"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.v12.suo"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.vcxproj"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln"/>
 </editors>
-<item historyLabel="Person.cpp" index="1">
-<position info="not_deleted" x="264" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position info="not_deleted" x="264" y="0"/>
-</item>
-<item historyLabel="Person.h" index="2">
-<position info="not_deleted" x="323" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position info="not_deleted" x="264" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position info="not_deleted" x="141" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position info="not_deleted" x="262" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position info="not_deleted" x="262" y="0"/>
-</item>
-<item historyLabel="Person.h" index="2">
-<position info="not_deleted" x="323" y="0"/>
-</item>
-<item historyLabel="Person.h" index="2">
-<position info="not_deleted" x="323" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position info="not_deleted" x="262" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position/>
-</item>
-<item historyLabel="Constructor Initialization Lists.cpp" index="0">
-<position info="not_deleted" x="354" y="0"/>
-</item>
-<item historyLabel="Constructor Initialization Lists.cpp" index="0">
-<position info="not_deleted" x="432" y="0"/>
-</item>
-<item historyLabel="Constructor Initialization Lists.cpp" index="0">
-<position info="not_deleted" x="462" y="0"/>
-</item>
-<item historyLabel="Constructor Initialization Lists.cpp" index="0">
-<position info="not_deleted" x="524" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position/>
-</item>
-<item historyLabel="Person.h" index="2">
-<position info="not_deleted" x="247" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position/>
-</item>
-<item historyLabel="Person.h" index="2">
-<position info="not_deleted" x="302" y="0"/>
-</item>
-<item historyLabel="Person.cpp" index="1">
-<position info="not_deleted" x="116" y="0"/>
-</item>
-<item historyLabel="Constructor Initialization Lists.cpp" index="0">
-<position info="not_deleted" x="524" y="0"/>
-</item>
-<item historyLabel="Person.h" index="2">
-<position info="not_deleted" x="302" y="0"/>
-</item>
-<item historyLabel="Pointers.cpp" index="3">
+<item historyLabel="resource.h" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers.cpp" index="3">
-<position info="not_deleted" x="932" y="0"/>
-</item>
-<item historyLabel="Pointers.cpp" index="3">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="Pointers.cpp" index="3">
-<position info="not_deleted" x="932" y="0"/>
-</item>
-<item historyLabel="Pointers.cpp" index="3">
-<position info="not_deleted" x="888" y="0"/>
-</item>
-<item historyLabel="Pointers.cpp" index="3">
-<position info="not_deleted" x="456" y="0"/>
-</item>
-<item historyLabel="Overloading Constructors.cpp" index="4">
-<position info="not_deleted" x="79" y="0"/>
-</item>
-<item historyLabel="Getters and Setters.cpp" index="5">
+<item historyLabel="BovadaHelp.cpp" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Constructor and Destructors.cpp" index="6">
-<position info="not_deleted" x="521" y="0"/>
-</item>
-<item historyLabel="Arithmetic.cpp" index="7">
-<position info="not_deleted" x="729" y="0"/>
-</item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
+<item historyLabel="resource.h" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="380" y="0"/>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="842" y="0"/>
+<item historyLabel="BovadaHelpDlg.h" index="1">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="406" y="0"/>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="433" y="0"/>
+<item historyLabel="BovadaHelp.h" index="4">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="433" y="0"/>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="488" y="0"/>
+<item historyLabel="BovadaHelp.aps" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="510" y="0"/>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="528" y="0"/>
+<item historyLabel="BovadaHelp.rc" index="6">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="517" y="0"/>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="752" y="0"/>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="725" y="0"/>
+<item historyLabel="BovadaHelp.vcxproj" index="0">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="841" y="0"/>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="838" y="0"/>
+<item historyLabel="stdafx.cpp" index="8">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item active="true" historyLabel="Pointers and Arrays.cpp" index="8">
-<position info="not_deleted" x="822" y="0"/>
+<item historyLabel="stdafx.h" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="stdafx.cpp" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="pointer.h" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="WinIme64.cpp" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="stdafx.cpp" index="12">
+<position info="not_deleted" x="68" y="0"/>
+</item>
+<item historyLabel="WinIme64.cpp" index="11">
+<position info="not_deleted" x="10486" y="5"/>
+</item>
+<item historyLabel="BovadaHelp.v12.suo" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="WinIme64.cpp" index="11">
+<position info="not_deleted" x="10486" y="5"/>
+</item>
+<item historyLabel="WinIme64.vcxproj" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelp.sln" index="15">
+<position info="not_deleted" x="64" y="0"/>
+</item>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelp.sln" index="15">
+<position info="not_deleted" x="64" y="0"/>
+</item>
+<item historyLabel="WinIme64.vcxproj" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelp.sln" index="15">
+<position info="not_deleted" x="64" y="0"/>
+</item>
+<item historyLabel="WinIme64.vcxproj" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="WinIme64.cpp" index="11">
+<position info="not_deleted" x="10486" y="5"/>
+</item>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelp.sln" index="15">
+<position info="not_deleted" x="64" y="0"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="2091" y="14"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="14392" y="10"/>
+</item>
+<item historyLabel="WinIme64.cpp" index="11">
+<position info="not_deleted" x="10486" y="5"/>
+</item>
+<item historyLabel="BovadaHelp.cpp" index="3">
+<position info="not_deleted" x="2091" y="14"/>
+</item>
+<item historyLabel="BovadaHelp.sln" index="15">
+<position info="not_deleted" x="64" y="0"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="14392" y="10"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="13959" y="0"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="108" y="15"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="6517" y="27"/>
+</item>
+<item historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="13842" y="26"/>
+</item>
+<item active="true" historyLabel="BovadaHelpDlg.cpp" index="7">
+<position info="not_deleted" x="1818" y="9"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -535,50 +458,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Pointers and Arrays.cpp" tooltip="Pointers and Arrays/src/Pointers and Arrays.cpp">
-<persistable path="/Pointers and Arrays/src/Pointers and Arrays.cpp"/>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.sln" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="WinIme64.vcxproj" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.vcxproj">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.vcxproj"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.v12.suo" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp.v12.suo">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.v12.suo"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdafx.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/stdafx.cpp">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/stdafx.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="WinIme64.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="pointer.h" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/rapidjson/pointer.h">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/rapidjson/pointer.h"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdafx.h" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.h">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.h"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdafx.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.cpp">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelpDlg.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.rc" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.rc">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.rc"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.aps" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.aps">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.aps"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="The Const Keyword.cpp" tooltip="The Const Keyword/src/The Const Keyword.cpp">
+<persistable path="/The Const Keyword/src/The Const Keyword.cpp"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Arithmetic.cpp" tooltip="Arithmetic/src/Arithmetic.cpp">
 <persistable path="/Arithmetic/src/Arithmetic.cpp"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Getters and Setters.cpp" tooltip="Getters and Setters/src/Getters and Setters.cpp">
-<persistable path="/Getters and Setters/src/Getters and Setters.cpp"/>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelp.h" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.h">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.h"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Overloading Constructors.cpp" tooltip="Overloading Constructors/src/Overloading Constructors.cpp">
-<persistable path="/Overloading Constructors/src/Overloading Constructors.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Pointers.cpp" tooltip="Pointers/src/Pointers.cpp">
-<persistable path="/Pointers/src/Pointers.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Person.h" tooltip="Constructor Initialization Lists/src/Person.h">
-<persistable path="/Constructor Initialization Lists/src/Person.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Person.cpp" tooltip="Constructor Initialization Lists/src/Person.cpp">
-<persistable path="/Constructor Initialization Lists/src/Person.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Constructor Initialization Lists.cpp" tooltip="Constructor Initialization Lists/src/Constructor Initialization Lists.cpp">
-<persistable path="/Constructor Initialization Lists/src/Constructor Initialization Lists.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Person.cpp" tooltip="This/src/Person.cpp">
-<persistable path="/This/src/Person.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Person.h" tooltip="This/src/Person.h">
-<persistable path="/This/src/Person.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="This.cpp" tooltip="This/src/This.cpp">
-<persistable path="/This/src/This.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.h" tooltip="Constructor and Destructors/src/Cat.h">
-<persistable path="/Constructor and Destructors/src/Cat.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.cpp" tooltip="Constructor and Destructors/src/Cat.cpp">
-<persistable path="/Constructor and Destructors/src/Cat.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Constructor and Destructors.cpp" tooltip="Constructor and Destructors/src/Constructor and Destructors.cpp">
-<persistable path="/Constructor and Destructors/src/Constructor and Destructors.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.h" tooltip="Data Members/src/Cat.h">
-<persistable path="/Data Members/src/Cat.h"/>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelp.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp">
+<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp"/>
 </file>
 </mruList>
 </workbench>

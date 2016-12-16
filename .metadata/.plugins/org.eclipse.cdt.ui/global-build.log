@@ -107,3 +107,145 @@ Invoking: Cross G++ Linker
 g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
 Finished building target: The Const Keyword
  
+15:40:30 **** Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:40:37 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:41:53 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:42:14 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:42:53 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:44:23 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+../src/Copy Constructors.cpp:19:15: error: ‘animal’ does not name a type
+  Animal(const animal& other) {
+               ^
+src/subdir.mk:18: recipe for target 'src/Copy Constructors.o' failed
+make: *** [src/Copy Constructors.o] Error 1
+15:44:35 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:45:20 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:45:39 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:46:16 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:48:34 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
+15:48:50 **** Incremental Build of configuration Debug for project Copy Constructors ****
+make all 
+Building file: ../src/Copy Constructors.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Copy Constructors.d" -MT"src/Copy\ Constructors.d" -o "src/Copy Constructors.o" "../src/Copy Constructors.cpp"
+Finished building: ../src/Copy Constructors.cpp
+ 
+Building target: Copy Constructors
+Invoking: Cross G++ Linker
+g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
+Finished building target: Copy Constructors
+ 
