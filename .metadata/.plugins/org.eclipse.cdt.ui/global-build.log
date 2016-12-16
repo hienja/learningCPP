@@ -690,3 +690,54 @@ Invoking: Cross G++ Linker
 g++  -o "Reversing a String"  ./src/Reversing\ a\ String.o   
 Finished building target: Reversing a String
  
+20:07:04 **** Build of configuration Debug for project References ****
+make all 
+Building file: ../src/References.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/References.d" -MT"src/References.d" -o "src/References.o" "../src/References.cpp"
+Finished building: ../src/References.cpp
+ 
+Building target: References
+Invoking: Cross G++ Linker
+g++  -o "References"  ./src/References.o   
+Finished building target: References
+ 
+20:07:07 **** Incremental Build of configuration Debug for project References ****
+make all 
+make: Nothing to be done for 'all'.
+20:07:51 **** Incremental Build of configuration Debug for project References ****
+make all 
+Building file: ../src/References.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/References.d" -MT"src/References.d" -o "src/References.o" "../src/References.cpp"
+Finished building: ../src/References.cpp
+ 
+Building target: References
+Invoking: Cross G++ Linker
+g++  -o "References"  ./src/References.o   
+Finished building target: References
+ 
+20:09:51 **** Incremental Build of configuration Debug for project References ****
+make all 
+Building file: ../src/References.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/References.d" -MT"src/References.d" -o "src/References.o" "../src/References.cpp"
+Finished building: ../src/References.cpp
+ 
+Building target: References
+Invoking: Cross G++ Linker
+g++  -o "References"  ./src/References.o   
+Finished building target: References
+ 
+20:10:11 **** Incremental Build of configuration Debug for project References ****
+make all 
+Building file: ../src/References.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/References.d" -MT"src/References.d" -o "src/References.o" "../src/References.cpp"
+Finished building: ../src/References.cpp
+ 
+Building target: References
+Invoking: Cross G++ Linker
+g++  -o "References"  ./src/References.o   
+Finished building target: References
+ 
