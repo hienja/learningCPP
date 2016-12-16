@@ -1,0 +1,19 @@
+//============================================================================
+// Name        : Char.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	char text[6] = {'h', 'e', 'l', 'l', 'o'};
+
+	cout << text << endl;
+
+	return 0;
+}
