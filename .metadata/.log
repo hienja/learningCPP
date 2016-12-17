@@ -474,3 +474,6 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-16 17:15:18.757
 !MESSAGE Indexed 'Return Object from Functions' (1 sources, 104 headers) in 2.39 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-16 17:32:18.384
+!MESSAGE Indexed 'Allocating Memory' (1 sources, 104 headers) in 1.9 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)

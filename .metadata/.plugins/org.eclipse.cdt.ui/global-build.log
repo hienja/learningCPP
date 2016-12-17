@@ -392,3 +392,63 @@ Invoking: Cross G++ Linker
 g++  -o "Return Object from Functions"  ./src/Return\ Object\ from\ Functions.o   
 Finished building target: Return Object from Functions
  
+17:43:29 **** Build of configuration Debug for project Allocating Memory ****
+make all 
+Building file: ../src/Allocating Memory.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Allocating Memory.d" -MT"src/Allocating\ Memory.d" -o "src/Allocating Memory.o" "../src/Allocating Memory.cpp"
+Finished building: ../src/Allocating Memory.cpp
+ 
+Building target: Allocating Memory
+Invoking: Cross G++ Linker
+g++  -o "Allocating Memory"  ./src/Allocating\ Memory.o   
+Finished building target: Allocating Memory
+ 
+17:43:40 **** Incremental Build of configuration Debug for project Allocating Memory ****
+make all 
+Building file: ../src/Allocating Memory.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Allocating Memory.d" -MT"src/Allocating\ Memory.d" -o "src/Allocating Memory.o" "../src/Allocating Memory.cpp"
+Finished building: ../src/Allocating Memory.cpp
+ 
+Building target: Allocating Memory
+Invoking: Cross G++ Linker
+g++  -o "Allocating Memory"  ./src/Allocating\ Memory.o   
+Finished building target: Allocating Memory
+ 
+17:44:33 **** Incremental Build of configuration Debug for project Allocating Memory ****
+make all 
+Building file: ../src/Allocating Memory.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Allocating Memory.d" -MT"src/Allocating\ Memory.d" -o "src/Allocating Memory.o" "../src/Allocating Memory.cpp"
+Finished building: ../src/Allocating Memory.cpp
+ 
+Building target: Allocating Memory
+Invoking: Cross G++ Linker
+g++  -o "Allocating Memory"  ./src/Allocating\ Memory.o   
+Finished building target: Allocating Memory
+ 
+17:45:53 **** Incremental Build of configuration Debug for project Allocating Memory ****
+make all 
+Building file: ../src/Allocating Memory.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Allocating Memory.d" -MT"src/Allocating\ Memory.d" -o "src/Allocating Memory.o" "../src/Allocating Memory.cpp"
+Finished building: ../src/Allocating Memory.cpp
+ 
+Building target: Allocating Memory
+Invoking: Cross G++ Linker
+g++  -o "Allocating Memory"  ./src/Allocating\ Memory.o   
+Finished building target: Allocating Memory
+ 
+17:46:14 **** Incremental Build of configuration Debug for project Allocating Memory ****
+make all 
+Building file: ../src/Allocating Memory.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Allocating Memory.d" -MT"src/Allocating\ Memory.d" -o "src/Allocating Memory.o" "../src/Allocating Memory.cpp"
+Finished building: ../src/Allocating Memory.cpp
+ 
+Building target: Allocating Memory
+Invoking: Cross G++ Linker
+g++  -o "Allocating Memory"  ./src/Allocating\ Memory.o   
+Finished building target: Allocating Memory
+ 
