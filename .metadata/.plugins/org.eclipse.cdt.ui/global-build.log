@@ -867,3 +867,65 @@ Invoking: Cross G++ Linker
 g++  -o "Inheritance"  ./src/Inheritance.o   
 Finished building target: Inheritance
  
+21:57:01 **** Build of configuration Debug for project Encapsulation ****
+make all 
+Building file: ../src/Encapsulation.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Encapsulation.d" -MT"src/Encapsulation.d" -o "src/Encapsulation.o" "../src/Encapsulation.cpp"
+Finished building: ../src/Encapsulation.cpp
+ 
+Building target: Encapsulation
+Invoking: Cross G++ Linker
+g++  -o "Encapsulation"  ./src/Encapsulation.o   
+Finished building target: Encapsulation
+ 
+21:57:05 **** Incremental Build of configuration Debug for project Encapsulation ****
+make all 
+make: Nothing to be done for 'all'.
+21:58:22 **** Incremental Build of configuration Debug for project Encapsulation ****
+make all 
+Building file: ../src/Encapsulation.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Encapsulation.d" -MT"src/Encapsulation.d" -o "src/Encapsulation.o" "../src/Encapsulation.cpp"
+Finished building: ../src/Encapsulation.cpp
+ 
+Building target: Encapsulation
+Invoking: Cross G++ Linker
+g++  -o "Encapsulation"  ./src/Encapsulation.o   
+Finished building target: Encapsulation
+ 
+22:00:04 **** Incremental Build of configuration Debug for project Encapsulation ****
+make all 
+Building file: ../src/Encapsulation.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Encapsulation.d" -MT"src/Encapsulation.d" -o "src/Encapsulation.o" "../src/Encapsulation.cpp"
+../src/Encapsulation.cpp: In function ‘int main()’:
+../src/Encapsulation.cpp:24:11: error: invalid use of non-static member function
+  frog.info;
+           ^
+make: *** [src/Encapsulation.o] Error 1
+src/subdir.mk:18: recipe for target 'src/Encapsulation.o' failed
+22:00:11 **** Incremental Build of configuration Debug for project Encapsulation ****
+make all 
+Building file: ../src/Encapsulation.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Encapsulation.d" -MT"src/Encapsulation.d" -o "src/Encapsulation.o" "../src/Encapsulation.cpp"
+Finished building: ../src/Encapsulation.cpp
+ 
+Building target: Encapsulation
+Invoking: Cross G++ Linker
+g++  -o "Encapsulation"  ./src/Encapsulation.o   
+Finished building target: Encapsulation
+ 
+22:00:45 **** Incremental Build of configuration Debug for project Encapsulation ****
+make all 
+Building file: ../src/Encapsulation.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Encapsulation.d" -MT"src/Encapsulation.d" -o "src/Encapsulation.o" "../src/Encapsulation.cpp"
+Finished building: ../src/Encapsulation.cpp
+ 
+Building target: Encapsulation
+Invoking: Cross G++ Linker
+g++  -o "Encapsulation"  ./src/Encapsulation.o   
+Finished building target: Encapsulation
+ 
