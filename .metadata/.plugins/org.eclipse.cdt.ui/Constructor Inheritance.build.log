@@ -1,0 +1,15 @@
+22:19:57 **** Incremental Build of configuration Debug for project Constructor Inheritance ****
+make all 
+Building file: ../src/Constructor Inheritance.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Constructor Inheritance.d" -MT"src/Constructor\ Inheritance.d" -o "src/Constructor Inheritance.o" "../src/Constructor Inheritance.cpp"
+Finished building: ../src/Constructor Inheritance.cpp
+ 
+Building target: Constructor Inheritance
+Invoking: Cross G++ Linker
+g++  -o "Constructor Inheritance"  ./src/Constructor\ Inheritance.o   
+Finished building target: Constructor Inheritance
+ 
+
+22:19:57 Build Finished (took 324ms)
+

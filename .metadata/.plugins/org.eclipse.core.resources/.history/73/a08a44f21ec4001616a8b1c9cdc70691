@@ -1,0 +1,22 @@
+//============================================================================
+// Name        : Constructor.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class Machine {
+public:
+	Machine() {cout << "Machine no-argument called" << endl;}
+}
+
+int main() {
+	Machine machine;
+
+
+	return 0;
+}

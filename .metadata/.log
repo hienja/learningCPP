@@ -555,3 +555,6 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-16 21:55:40.505
 !MESSAGE Indexed 'Encapsulation' (1 sources, 0 headers) in 0.005 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-16 22:05:15.317
+!MESSAGE Indexed 'Constructor Inheritance' (1 sources, 0 headers) in 0.004 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)

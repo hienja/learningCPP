@@ -12,6 +12,7 @@ using namespace std;
 class Frog{
 private:
 	string name;
+private:
 	string getName() {return name;}
 public:
 	Frog(string name): name(name) {}
