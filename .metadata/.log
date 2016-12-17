@@ -465,3 +465,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-16 15:38:47.800
 !MESSAGE Indexed 'Copy Constructors' (1 sources, 0 headers) in 0.054 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-16 15:50:00.790
+!MESSAGE Indexed 'The New Operater' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-16 15:50:31.794
+!MESSAGE Indexed 'The New Operator' (1 sources, 104 headers) in 3.06 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)

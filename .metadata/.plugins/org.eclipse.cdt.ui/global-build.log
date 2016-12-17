@@ -249,3 +249,61 @@ Invoking: Cross G++ Linker
 g++  -o "Copy Constructors"  ./src/Copy\ Constructors.o   
 Finished building target: Copy Constructors
  
+15:59:05 **** Build of configuration Debug for project The New Operator ****
+make all 
+Building file: ../src/The New Operator.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The New Operator.d" -MT"src/The\ New\ Operator.d" -o "src/The New Operator.o" "../src/The New Operator.cpp"
+../src/The New Operator.cpp: In function ‘Animal* createAnimal()’:
+../src/The New Operator.cpp:26:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+Finished building: ../src/The New Operator.cpp
+ 
+Building target: The New Operator
+Invoking: Cross G++ Linker
+g++  -o "The New Operator"  ./src/The\ New\ Operator.o   
+Finished building target: The New Operator
+ 
+15:59:09 **** Incremental Build of configuration Debug for project The New Operator ****
+make all 
+make: Nothing to be done for 'all'.
+17:08:25 **** Incremental Build of configuration Debug for project The New Operator ****
+make all 
+Building file: ../src/The New Operator.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The New Operator.d" -MT"src/The\ New\ Operator.d" -o "src/The New Operator.o" "../src/The New Operator.cpp"
+Finished building: ../src/The New Operator.cpp
+ 
+Building target: The New Operator
+Invoking: Cross G++ Linker
+g++  -o "The New Operator"  ./src/The\ New\ Operator.o   
+Finished building target: The New Operator
+ 
+17:08:27 **** Incremental Build of configuration Debug for project The New Operator ****
+make all 
+make: Nothing to be done for 'all'.
+17:11:36 **** Incremental Build of configuration Debug for project The New Operator ****
+make all 
+Building file: ../src/The New Operator.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The New Operator.d" -MT"src/The\ New\ Operator.d" -o "src/The New Operator.o" "../src/The New Operator.cpp"
+Finished building: ../src/The New Operator.cpp
+ 
+Building target: The New Operator
+Invoking: Cross G++ Linker
+g++  -o "The New Operator"  ./src/The\ New\ Operator.o   
+Finished building target: The New Operator
+ 
+17:13:13 **** Incremental Build of configuration Debug for project The New Operator ****
+make all 
+Building file: ../src/The New Operator.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The New Operator.d" -MT"src/The\ New\ Operator.d" -o "src/The New Operator.o" "../src/The New Operator.cpp"
+Finished building: ../src/The New Operator.cpp
+ 
+Building target: The New Operator
+Invoking: Cross G++ Linker
+g++  -o "The New Operator"  ./src/The\ New\ Operator.o   
+Finished building target: The New Operator
+ 

@@ -1,0 +1,15 @@
+17:13:13 **** Incremental Build of configuration Debug for project The New Operator ****
+make all 
+Building file: ../src/The New Operator.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The New Operator.d" -MT"src/The\ New\ Operator.d" -o "src/The New Operator.o" "../src/The New Operator.cpp"
+Finished building: ../src/The New Operator.cpp
+ 
+Building target: The New Operator
+Invoking: Cross G++ Linker
+g++  -o "The New Operator"  ./src/The\ New\ Operator.o   
+Finished building target: The New Operator
+ 
+
+17:13:13 Build Finished (took 433ms)
+
