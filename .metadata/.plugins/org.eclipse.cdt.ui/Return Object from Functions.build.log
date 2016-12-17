@@ -1,0 +1,15 @@
+17:26:01 **** Incremental Build of configuration Debug for project Return Object from Functions ****
+make all 
+Building file: ../src/Return Object from Functions.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Return Object from Functions.d" -MT"src/Return\ Object\ from\ Functions.d" -o "src/Return Object from Functions.o" "../src/Return Object from Functions.cpp"
+Finished building: ../src/Return Object from Functions.cpp
+ 
+Building target: Return Object from Functions
+Invoking: Cross G++ Linker
+g++  -o "Return Object from Functions"  ./src/Return\ Object\ from\ Functions.o   
+Finished building target: Return Object from Functions
+ 
+
+17:26:02 Build Finished (took 430ms)
+
