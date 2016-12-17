@@ -1,0 +1,22 @@
+/*
+ * Animals.h
+ *
+ *  Created on: Dec 16, 2016
+ *      Author: hienja
+ */
+
+#ifndef ANIMALS_H_
+#define ANIMALS_H_
+
+namespace ht {
+
+class Cat {
+public:
+	Cat();
+	virtual ~Cat();
+	void speak();
+};
+
+} /* namespace ht */
+
+#endif /* ANIMALS_H_ */

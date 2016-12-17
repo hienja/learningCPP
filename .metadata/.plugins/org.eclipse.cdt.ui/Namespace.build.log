@@ -1,0 +1,15 @@
+21:45:07 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+
+21:45:08 Build Finished (took 370ms)
+

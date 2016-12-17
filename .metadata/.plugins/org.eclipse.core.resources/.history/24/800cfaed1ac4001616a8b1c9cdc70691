@@ -1,0 +1,21 @@
+//============================================================================
+// Name        : Namespace.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include "Cat.h"
+
+using namespace std;
+
+using namespace cats;
+
+int main() {
+	Cat cat;
+	cat.speak();
+
+	return 0;
+}

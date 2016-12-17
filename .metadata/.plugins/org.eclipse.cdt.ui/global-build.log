@@ -550,3 +550,238 @@ Invoking: Cross G++ Linker
 g++  -o "Arrays and Functions"  ./src/Arrays\ and\ Functions.o   
 Finished building target: Arrays and Functions
  
+21:30:37 **** Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Cat.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
+Finished building: ../src/Cat.cpp
+ 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:30:56 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+../src/Namespace.cpp: In function ‘int main()’:
+../src/Namespace.cpp:13:2: error: ‘Cat’ was not declared in this scope
+  Cat cat;
+  ^
+src/subdir.mk:21: recipe for target 'src/Namespace.o' failed
+../src/Namespace.cpp:14:2: error: ‘cat’ was not declared in this scope
+  cat.speak();
+  ^
+make: *** [src/Namespace.o] Error 1
+21:31:31 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:35:49 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Aniamls.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Aniamls.d" -MT"src/Aniamls.d" -o "src/Aniamls.o" "../src/Aniamls.cpp"
+Finished building: ../src/Aniamls.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:37:35 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Cat.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
+Finished building: ../src/Cat.cpp
+ 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:37:43 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+../src/Namespace.cpp:14:17: error: ‘ht’ is not a namespace-name
+ using namespace ht;
+                 ^
+../src/Namespace.cpp:14:19: error: expected namespace-name before ‘;’ token
+ using namespace ht;
+                   ^
+../src/Namespace.cpp: In function ‘int main()’:
+../src/Namespace.cpp:17:2: error: ‘Cat’ was not declared in this scope
+  Cat cat;
+  ^
+../src/Namespace.cpp:17:2: note: suggested alternative:
+In file included from ../src/Namespace.cpp:10:0:
+../src/Cat.h:13:7: note:   ‘cats::Cat’
+src/subdir.mk:24: recipe for target 'src/Namespace.o' failed
+ class Cat {
+       ^
+../src/Namespace.cpp:18:2: error: ‘cat’ was not declared in this scope
+  cat.speak();
+  ^
+make: *** [src/Namespace.o] Error 1
+21:38:03 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:39:17 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:39:55 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:40:56 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Cat.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
+In file included from ../src/Cat.cpp:8:0:
+../src/Cat.h:15:7: error: ‘catName’ does not name a type
+ const catName = "Freddy";
+       ^
+src/subdir.mk:24: recipe for target 'src/Cat.o' failed
+make: *** [src/Cat.o] Error 1
+21:41:38 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Cat.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
+Finished building: ../src/Cat.cpp
+ 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:43:26 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Aniamls.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Aniamls.d" -MT"src/Aniamls.d" -o "src/Aniamls.o" "../src/Aniamls.cpp"
+In file included from ../src/Aniamls.cpp:8:0:
+../src/Animals.h:18:1: error: expected ‘,’ or ‘;’ before ‘class’
+ class Cat {
+ ^
+../src/Aniamls.cpp:12:1: error: ‘Cat’ does not name a type
+ Cat::Cat() {
+ ^
+../src/Aniamls.cpp:17:1: error: ‘Cat’ does not name a type
+ Cat::~Cat() {
+ ^
+../src/Aniamls.cpp:21:6: error: ‘Cat’ has not been declared
+ void Cat::speak() {
+      ^
+make: *** [src/Aniamls.o] Error 1
+src/subdir.mk:24: recipe for target 'src/Aniamls.o' failed
+21:44:08 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Aniamls.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Aniamls.d" -MT"src/Aniamls.d" -o "src/Aniamls.o" "../src/Aniamls.cpp"
+Finished building: ../src/Aniamls.cpp
+ 
+Building file: ../src/Cat.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Cat.d" -MT"src/Cat.d" -o "src/Cat.o" "../src/Cat.cpp"
+Finished building: ../src/Cat.cpp
+ 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
+21:44:48 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+../src/Namespace.cpp: In function ‘int main()’:
+../src/Namespace.cpp:28:10: error: ‘catName’ was not declared in this scope
+  cout << catName << endl;
+          ^
+../src/Namespace.cpp:28:10: note: suggested alternatives:
+In file included from ../src/Namespace.cpp:10:0:
+../src/Cat.h:16:14: note:   ‘cats::catName’
+ const string catName = "Freddy";
+              ^
+In file included from ../src/Namespace.cpp:11:0:
+../src/Animals.h:16:14: note:   ‘ht::catName’
+ const string catName = "Fiddles";
+              ^
+make: *** [src/Namespace.o] Error 1
+src/subdir.mk:24: recipe for target 'src/Namespace.o' failed
+21:45:07 **** Incremental Build of configuration Debug for project Namespace ****
+make all 
+Building file: ../src/Namespace.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Namespace.d" -MT"src/Namespace.d" -o "src/Namespace.o" "../src/Namespace.cpp"
+Finished building: ../src/Namespace.cpp
+ 
+Building target: Namespace
+Invoking: Cross G++ Linker
+g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
+Finished building target: Namespace
+ 
