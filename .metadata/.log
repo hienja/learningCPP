@@ -558,3 +558,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-16 22:05:15.317
 !MESSAGE Indexed 'Constructor Inheritance' (1 sources, 0 headers) in 0.004 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-16 22:33:35.591
+!MESSAGE Indexed 'Two Complement' (1 sources, 0 headers) in 0.003 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-16 22:46:52.111
+!MESSAGE Indexed 'The Static Keyword' (1 sources, 104 headers) in 1.76 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)

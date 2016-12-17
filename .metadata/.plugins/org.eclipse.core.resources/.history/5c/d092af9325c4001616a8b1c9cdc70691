@@ -1,0 +1,38 @@
+//============================================================================
+// Name        : The.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+//.h header file
+class Test{
+private:
+	static int count;
+public:
+	//Initialization must be done here
+	static int const MAX = 99;
+public:
+	Test() {
+		count++;
+	}
+	static void showInfo() {
+		cout << count << endl;
+	}
+};
+
+//.cpp sourc
+int Test::count = 0;
+
+int main() {
+	cout << Test::MAX << endl;
+	Test::showInfo();
+
+	Test test1;
+
+	return 0;
+}

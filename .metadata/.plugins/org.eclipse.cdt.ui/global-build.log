@@ -1091,3 +1091,174 @@ Invoking: Cross G++ Linker
 g++  -o "Constructor Inheritance"  ./src/Constructor\ Inheritance.o   
 Finished building target: Constructor Inheritance
  
+22:34:21 **** Build of configuration Debug for project Two Complement ****
+make all 
+Building file: ../src/Two Complement.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Two Complement.d" -MT"src/Two\ Complement.d" -o "src/Two Complement.o" "../src/Two Complement.cpp"
+Finished building: ../src/Two Complement.cpp
+ 
+Building target: Two Complement
+Invoking: Cross G++ Linker
+g++  -o "Two Complement"  ./src/Two\ Complement.o   
+Finished building target: Two Complement
+ 
+22:34:24 **** Incremental Build of configuration Debug for project Two Complement ****
+make all 
+make: Nothing to be done for 'all'.
+22:47:48 **** Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:49:19 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:50:47 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:52:12 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:53:32 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:53:43 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:53:57 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:54:21 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:56:44 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:56:57 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:57:04 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:57:39 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 
+22:57:55 **** Incremental Build of configuration Debug for project The Static Keyword ****
+make all 
+Building file: ../src/The Static Keyword.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Static Keyword.d" -MT"src/The\ Static\ Keyword.d" -o "src/The Static Keyword.o" "../src/The Static Keyword.cpp"
+Finished building: ../src/The Static Keyword.cpp
+ 
+Building target: The Static Keyword
+Invoking: Cross G++ Linker
+g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
+Finished building target: The Static Keyword
+ 

@@ -1,0 +1,24 @@
+//============================================================================
+// Name        : The.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+//.h header file
+class Test{
+public:
+	static int count;
+};
+
+//.cpp sourc
+int Test::count = 7;
+
+int main() {
+	cout << Test::count << endl;
+	return 0;
+}
