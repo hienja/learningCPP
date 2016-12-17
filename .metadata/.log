@@ -549,3 +549,6 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-16 21:27:26.241
 !MESSAGE Indexed 'Namespace' (1 sources, 0 headers) in 0.101 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-16 21:47:15.117
+!MESSAGE Indexed 'Inheritance' (1 sources, 104 headers) in 2.54 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)

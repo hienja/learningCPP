@@ -785,3 +785,85 @@ Invoking: Cross G++ Linker
 g++  -o "Namespace"  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o   
 Finished building target: Namespace
  
+21:48:49 **** Build of configuration Debug for project Inheritance ****
+make all 
+Building file: ../src/Inheritance.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheritance.d" -MT"src/Inheritance.d" -o "src/Inheritance.o" "../src/Inheritance.cpp"
+../src/Inheritance.cpp:15:1: error: expected ‘;’ after class definition
+ }
+ ^
+src/subdir.mk:18: recipe for target 'src/Inheritance.o' failed
+make: *** [src/Inheritance.o] Error 1
+21:48:58 **** Incremental Build of configuration Debug for project Inheritance ****
+make all 
+Building file: ../src/Inheritance.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheritance.d" -MT"src/Inheritance.d" -o "src/Inheritance.o" "../src/Inheritance.cpp"
+../src/Inheritance.cpp:15:1: error: expected ‘;’ after class definition
+ }
+ ^
+make: *** [src/Inheritance.o] Error 1
+src/subdir.mk:18: recipe for target 'src/Inheritance.o' failed
+21:49:30 **** Incremental Build of configuration Debug for project Inheritance ****
+make all 
+Building file: ../src/Inheritance.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheritance.d" -MT"src/Inheritance.d" -o "src/Inheritance.o" "../src/Inheritance.cpp"
+Finished building: ../src/Inheritance.cpp
+ 
+Building target: Inheritance
+Invoking: Cross G++ Linker
+g++  -o "Inheritance"  ./src/Inheritance.o   
+Finished building target: Inheritance
+ 
+21:49:33 **** Incremental Build of configuration Debug for project Inheritance ****
+make all 
+make: Nothing to be done for 'all'.
+21:50:33 **** Incremental Build of configuration Debug for project Inheritance ****
+make all 
+Building file: ../src/Inheritance.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheritance.d" -MT"src/Inheritance.d" -o "src/Inheritance.o" "../src/Inheritance.cpp"
+Finished building: ../src/Inheritance.cpp
+ 
+Building target: Inheritance
+Invoking: Cross G++ Linker
+g++  -o "Inheritance"  ./src/Inheritance.o   
+Finished building target: Inheritance
+ 
+21:51:14 **** Incremental Build of configuration Debug for project Inheritance ****
+make all 
+Building file: ../src/Inheritance.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheritance.d" -MT"src/Inheritance.d" -o "src/Inheritance.o" "../src/Inheritance.cpp"
+Finished building: ../src/Inheritance.cpp
+ 
+Building target: Inheritance
+Invoking: Cross G++ Linker
+g++  -o "Inheritance"  ./src/Inheritance.o   
+Finished building target: Inheritance
+ 
+21:53:11 **** Incremental Build of configuration Debug for project Inheritance ****
+make all 
+Building file: ../src/Inheritance.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheritance.d" -MT"src/Inheritance.d" -o "src/Inheritance.o" "../src/Inheritance.cpp"
+../src/Inheritance.cpp: In function ‘int main()’:
+../src/Inheritance.cpp:36:17: error: invalid use of non-static member function
+  tiger.attacking;
+                 ^
+make: *** [src/Inheritance.o] Error 1
+src/subdir.mk:18: recipe for target 'src/Inheritance.o' failed
+21:53:18 **** Incremental Build of configuration Debug for project Inheritance ****
+make all 
+Building file: ../src/Inheritance.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheritance.d" -MT"src/Inheritance.d" -o "src/Inheritance.o" "../src/Inheritance.cpp"
+Finished building: ../src/Inheritance.cpp
+ 
+Building target: Inheritance
+Invoking: Cross G++ Linker
+g++  -o "Inheritance"  ./src/Inheritance.o   
+Finished building target: Inheritance
+ 
