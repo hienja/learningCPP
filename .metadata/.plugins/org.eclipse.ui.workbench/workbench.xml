@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="25" version="2.0">
+<workbench progressCount="26" version="2.0">
 <workbenchAdvisor/>
 <window height="904" maximized="true" width="767" x="67" y="24">
 <fastViewData fastViewLocation="1024"/>
@@ -19,7 +19,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="232" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -32,32 +32,17 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelp.cpp" partName="BovadaHelp.cpp" title="BovadaHelp.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="2091" selectionTopPixel="970"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="The Static Keyword.cpp" partName="The Static Keyword.cpp" path="/home/hienja/learningCPP/The Static Keyword/src/The Static Keyword.cpp" title="The Static Keyword.cpp" tooltip="The Static Keyword/src/The Static Keyword.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/The Static Keyword/src/The Static Keyword.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="422" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelpDlg.cpp" partName="BovadaHelpDlg.cpp" title="BovadaHelpDlg.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="1818" selectionTopPixel="1200"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="WinIme64.cpp" partName="WinIme64.cpp" title="WinIme64.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="10486" selectionTopPixel="6955"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="WinIme64.vcxproj" partName="WinIme64.vcxproj" title="WinIme64.vcxproj" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.vcxproj" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.vcxproj"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1345"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.sln" partName="BovadaHelp.sln" title="BovadaHelp.sln" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="64" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="SDL Test.cpp" partName="SDL Test.cpp" path="/home/hienja/learningCPP/SDL Test/src/SDL Test.cpp" title="SDL Test.cpp" tooltip="SDL Test/src/SDL Test.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SDL Test/src/SDL Test.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="514" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -66,8 +51,7 @@
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
 <category IMemento.internal.id="Errors"/>
-<category IMemento.internal.id="Warnings"/>
-<category IMemento.internal.id="Warnings (2 items)"/>
+<category IMemento.internal.id="Warnings (5 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="435" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -100,7 +84,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="org.eclipse.cdt.ui.CPerspective">
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.eclipse.cdt.ui.CPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -274,172 +258,161 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.vcxproj"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.h"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/resource.h"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.h"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.aps"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.rc"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.cpp"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.h"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/rapidjson/pointer.h"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/stdafx.cpp"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.v12.suo"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.vcxproj"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Encapsulation/src/Encapsulation.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Constructor Inheritance/src/Constructor Inheritance.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Two Complement/src/Two Complement.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/The Static Keyword/src/The Static Keyword.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/SDL Test.cpp"/>
 </editors>
-<item historyLabel="resource.h" index="2">
+<item historyLabel="Encapsulation.cpp" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="BovadaHelp.cpp" index="3">
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="460" y="0"/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="472" y="0"/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="573" y="0"/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="572" y="0"/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="624" y="0"/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="536" y="0"/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="488" y="0"/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="525" y="0"/>
+</item>
+<item historyLabel="Encapsulation.cpp" index="0">
+<position info="not_deleted" x="401" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="resource.h" index="2">
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="407" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="662" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="590" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="414" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="1004" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="861" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="920" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="1028" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="491" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="499" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="561" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="739" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="752" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="987" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="1016" y="0"/>
+</item>
+<item historyLabel="Constructor Inheritance.cpp" index="1">
+<position info="not_deleted" x="1016" y="0"/>
+</item>
+<item historyLabel="Two Complement.cpp" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="BovadaHelp.cpp" index="3">
+<item historyLabel="Two Complement.cpp" index="2">
+<position info="not_deleted" x="399" y="0"/>
+</item>
+<item historyLabel="Two Complement.cpp" index="2">
+<position info="not_deleted" x="441" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="BovadaHelpDlg.h" index="1">
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="576" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="704" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="687" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="500" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="750" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="769" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="534" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="811" y="0"/>
+</item>
+<item historyLabel="The Static Keyword.cpp" index="3">
+<position info="not_deleted" x="861" y="0"/>
+</item>
+<item historyLabel="SDL Test.cpp" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="SDL Test.cpp" index="4">
+<position info="not_deleted" x="348" y="0"/>
 </item>
-<item historyLabel="BovadaHelp.h" index="4">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="SDL Test.cpp" index="4">
+<position info="not_deleted" x="416" y="0"/>
 </item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="SDL Test.cpp" index="4">
+<position info="not_deleted" x="411" y="0"/>
 </item>
-<item historyLabel="BovadaHelp.aps" index="5">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="SDL Test.cpp" index="4">
+<position info="not_deleted" x="523" y="0"/>
 </item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="SDL Test.cpp" index="4">
+<position info="not_deleted" x="346" y="0"/>
 </item>
-<item historyLabel="BovadaHelp.rc" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.vcxproj" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stdafx.cpp" index="8">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stdafx.h" index="9">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stdafx.cpp" index="8">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="pointer.h" index="10">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="WinIme64.cpp" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stdafx.cpp" index="12">
-<position info="not_deleted" x="68" y="0"/>
-</item>
-<item historyLabel="WinIme64.cpp" index="11">
-<position info="not_deleted" x="10486" y="5"/>
-</item>
-<item historyLabel="BovadaHelp.v12.suo" index="13">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="WinIme64.cpp" index="11">
-<position info="not_deleted" x="10486" y="5"/>
-</item>
-<item historyLabel="WinIme64.vcxproj" index="14">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.sln" index="15">
-<position info="not_deleted" x="64" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.sln" index="15">
-<position info="not_deleted" x="64" y="0"/>
-</item>
-<item historyLabel="WinIme64.vcxproj" index="14">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.sln" index="15">
-<position info="not_deleted" x="64" y="0"/>
-</item>
-<item historyLabel="WinIme64.vcxproj" index="14">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="WinIme64.cpp" index="11">
-<position info="not_deleted" x="10486" y="5"/>
-</item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.sln" index="15">
-<position info="not_deleted" x="64" y="0"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="2091" y="14"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="14392" y="10"/>
-</item>
-<item historyLabel="WinIme64.cpp" index="11">
-<position info="not_deleted" x="10486" y="5"/>
-</item>
-<item historyLabel="BovadaHelp.cpp" index="3">
-<position info="not_deleted" x="2091" y="14"/>
-</item>
-<item historyLabel="BovadaHelp.sln" index="15">
-<position info="not_deleted" x="64" y="0"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="14392" y="10"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="13959" y="0"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="108" y="15"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="6517" y="27"/>
-</item>
-<item historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="13842" y="26"/>
-</item>
-<item active="true" historyLabel="BovadaHelpDlg.cpp" index="7">
-<position info="not_deleted" x="1818" y="9"/>
+<item active="true" historyLabel="SDL Test.cpp" index="4">
+<position info="not_deleted" x="385" y="34"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -458,6 +431,39 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="SDL Test.cpp" tooltip="SDL Test/src/SDL Test.cpp">
+<persistable path="/SDL Test/src/SDL Test.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="The Static Keyword.cpp" tooltip="The Static Keyword/src/The Static Keyword.cpp">
+<persistable path="/The Static Keyword/src/The Static Keyword.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Two Complement.cpp" tooltip="Two Complement/src/Two Complement.cpp">
+<persistable path="/Two Complement/src/Two Complement.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Constructor Inheritance.cpp" tooltip="Constructor Inheritance/src/Constructor Inheritance.cpp">
+<persistable path="/Constructor Inheritance/src/Constructor Inheritance.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Encapsulation.cpp" tooltip="Encapsulation/src/Encapsulation.cpp">
+<persistable path="/Encapsulation/src/Encapsulation.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Inheritance.cpp" tooltip="Inheritance/src/Inheritance.cpp">
+<persistable path="/Inheritance/src/Inheritance.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Animals.h" tooltip="Namespace/src/Animals.h">
+<persistable path="/Namespace/src/Animals.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Aniamls.cpp" tooltip="Namespace/src/Aniamls.cpp">
+<persistable path="/Namespace/src/Aniamls.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.h" tooltip="Namespace/src/Cat.h">
+<persistable path="/Namespace/src/Cat.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Cat.cpp" tooltip="Namespace/src/Cat.cpp">
+<persistable path="/Namespace/src/Cat.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Namespace.cpp" tooltip="Namespace/src/Namespace.cpp">
+<persistable path="/Namespace/src/Namespace.cpp"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.sln" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln">
 <persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp.sln"/>
 </file>
@@ -469,39 +475,6 @@
 </file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdafx.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/stdafx.cpp">
 <persistable uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/stdafx.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="WinIme64.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/WinIme64/WinIme64.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="pointer.h" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/rapidjson/pointer.h">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/rapidjson/pointer.h"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdafx.h" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.h">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.h"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdafx.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.cpp">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/stdafx.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelpDlg.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelpDlg.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.rc" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.rc">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.rc"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="BovadaHelp.aps" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.aps">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.aps"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="The Const Keyword.cpp" tooltip="The Const Keyword/src/The Const Keyword.cpp">
-<persistable path="/The Const Keyword/src/The Const Keyword.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Arithmetic.cpp" tooltip="Arithmetic/src/Arithmetic.cpp">
-<persistable path="/Arithmetic/src/Arithmetic.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelp.h" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.h">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.h"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="BovadaHelp.cpp" tooltip="/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp">
-<persistable uri="file:/home/hienja/Downloads/BovadaHelp/BovadaHelp/BovadaHelp.cpp"/>
 </file>
 </mruList>
 </workbench>

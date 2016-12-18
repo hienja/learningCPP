@@ -1262,3 +1262,147 @@ Invoking: Cross G++ Linker
 g++  -o "The Static Keyword"  ./src/The\ Static\ Keyword.o   
 Finished building target: The Static Keyword
  
+22:30:14 **** Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   
+Finished building target: SDL Test
+ 
+22:30:20 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+22:51:21 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -I/usr/lib/x86_64-linux-gnu/ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp:10:17: fatal error: SDL.h: No such file or directory
+src/subdir.mk:18: recipe for target 'src/SDL Test.o' failed
+compilation terminated.
+make: *** [src/SDL Test.o] Error 1
+23:13:05 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -I/usr/lib/x86_64-linux-gnu/ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:15:5: error: ‘SDL’ was not declared in this scope
+  if(SDL.init(SLD_INIT_VIDEO) < 0) {
+     ^
+../src/SDL Test.cpp:15:14: error: ‘SLD_INIT_VIDEO’ was not declared in this scope
+  if(SDL.init(SLD_INIT_VIDEO) < 0) {
+              ^
+../src/SDL Test.cpp:22:11: error: ‘SDL_QUIT’ cannot be used as a function
+  SDL_QUIT();
+           ^
+src/subdir.mk:18: recipe for target 'src/SDL Test.o' failed
+make: *** [src/SDL Test.o] Error 1
+23:13:52 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -I/usr/lib/x86_64-linux-gnu/ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:15:5: error: ‘SDL’ was not declared in this scope
+  if(SDL.Init(SLD_INIT_VIDEO) < 0) {
+     ^
+../src/SDL Test.cpp:15:14: error: ‘SLD_INIT_VIDEO’ was not declared in this scope
+  if(SDL.Init(SLD_INIT_VIDEO) < 0) {
+              ^
+../src/SDL Test.cpp:22:11: error: ‘SDL_QUIT’ cannot be used as a function
+  SDL_QUIT();
+           ^
+src/subdir.mk:18: recipe for target 'src/SDL Test.o' failed
+make: *** [src/SDL Test.o] Error 1
+23:18:09 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -I/usr/lib/x86_64-linux-gnu/ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:15:5: error: ‘SDL’ was not declared in this scope
+  if(SDL.Init(SLD_INIT_VIDEO) < 0) {
+     ^
+../src/SDL Test.cpp:15:14: error: ‘SLD_INIT_VIDEO’ was not declared in this scope
+  if(SDL.Init(SLD_INIT_VIDEO) < 0) {
+              ^
+../src/SDL Test.cpp:22:11: error: ‘SDL_QUIT’ cannot be used as a function
+  SDL_QUIT();
+           ^
+src/subdir.mk:18: recipe for target 'src/SDL Test.o' failed
+make: *** [src/SDL Test.o] Error 1
+23:19:15 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -I/usr/lib/x86_64-linux-gnu/ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:22:11: error: ‘SDL_QUIT’ cannot be used as a function
+  SDL_QUIT();
+           ^
+src/subdir.mk:18: recipe for target 'src/SDL Test.o' failed
+make: *** [src/SDL Test.o] Error 1
+23:20:17 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -I/usr/lib/x86_64-linux-gnu/ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++ -L/usr/lib/x86_64-linux-gnu/ -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+23:20:34 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -I/usr/lib/x86_64-linux-gnu/ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++ -L/usr/lib/x86_64-linux-gnu/ -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+23:20:57 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   
+./src/SDL Test.o: In function `main':
+/home/hienja/learningCPP/SDL Test/Debug/../src/SDL Test.cpp:15: undefined reference to `SDL_Init'
+collect2: error: ld returned 1 exit status
+makefile:45: recipe for target 'SDL Test' failed
+make: *** [SDL Test] Error 1
+23:21:24 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+23:22:54 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
