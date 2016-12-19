@@ -11,12 +11,20 @@
 namespace ht {
 
 struct Particle {
+	double m_xSpeed;
+	double m_ySpeed;
 	double m_x;
 	double m_y;
+	/*
+	 *Alternative method for generating random number
+	 *int m_x
+	 *int m_y
+	 */
 
 public:
 	Particle();
 	virtual ~Particle();
+	void update();
 };
 
 } /* namespace ht */

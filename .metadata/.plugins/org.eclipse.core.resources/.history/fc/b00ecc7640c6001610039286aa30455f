@@ -1,0 +1,35 @@
+/*
+ * Particle.cpp
+ *
+ *  Created on: Dec 18, 2016
+ *      Author: hienja
+ */
+
+#include "Particle.h"
+#include <stdlib.h>
+
+namespace ht {
+
+Particle::Particle() {
+	//rand() generates a number between 0 to RAND_MAX, 32767
+	//Generate a number from -1 to 1;
+	m_x = (2.0 * rand()/RAND_MAX) - 1;
+	m_y = (2.0 * rand()/RAND_MAX) - 1;
+	/*Alternative method for generating random number
+	 * m_x = rand();
+	 * m_y = rand();
+	 */
+}
+
+Particle::~Particle() {
+	// TODO Auto-generated destructor stub
+}
+
+void Particle::update() {
+	const double xSpeed = ((2.0 * rand()) / RAND_MAX - 1) * 0.01;
+	const double ySpeed = ((2.0 * rand()) / RAND_MAX - 1) * 0.01;
+	m_x += xSpeed;
+	m_y += ySpeed;
+}
+
+} /* namespace ht */

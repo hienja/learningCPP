@@ -17,11 +17,12 @@ private:
 	Particle *m_pParticles;
 
 public:
-	const static int NPARTICLES = 5000;
+	const static int NPARTICLES = 1000;
 
 public:
 	Swarm();
 	virtual ~Swarm();
+	void update();
 
 	const Particle * const getParticles() {return m_pParticles;};
 };

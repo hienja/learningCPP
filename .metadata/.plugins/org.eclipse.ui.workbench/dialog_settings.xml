@@ -6,4 +6,11 @@
 			<item value="org.eclipse.cdt.ui.newCWizards"/>
 		</list>
 	</section>
+	<section name="ShowViewDialog">
+		<item value="378" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="443" key="DIALOG_HEIGHT"/>
+		<item value="577" key="DIALOG_X_ORIGIN"/>
+		<item value="157" key="DIALOG_Y_ORIGIN"/>
+	</section>
 </section>

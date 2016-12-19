@@ -3416,3 +3416,291 @@ Invoking: Cross G++ Linker
 g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
 Finished building target: SDL Test
  
+14:27:43 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+14:28:14 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+14:32:47 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+14:38:39 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:44:36: error: invalid operands of types ‘double’ and ‘const int’ to binary ‘operator%’
+    int x = (particle.m_x % Screen::SCREEN_WIDTH);
+                                    ^
+../src/SDL Test.cpp:45:36: error: invalid operands of types ‘double’ and ‘const int’ to binary ‘operator%’
+    int y = (particle.m_y % Screen::SCREEN_HEIGHT);
+src/subdir.mk:34: recipe for target 'src/SDL Test.o' failed
+                                    ^
+make: *** [src/SDL Test.o] Error 1
+14:39:27 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building file: ../src/Swarm.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Swarm.d" -MT"src/Swarm.d" -o "src/Swarm.o" "../src/Swarm.cpp"
+Finished building: ../src/Swarm.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+14:44:35 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:40:11: error: ISO C++ forbids declaration of ‘pParticles’ with no type [-fpermissive]
+   const * pParticles = swarm.getParticles();
+           ^
+../src/SDL Test.cpp:40:43: error: cannot convert ‘const ht::Particle*’ to ‘const int*’ in initialization
+   const * pParticles = swarm.getParticles();
+                                           ^
+../src/SDL Test.cpp:42:36: error: conversion from ‘const int’ to non-scalar type ‘ht::Particle’ requested
+    Particle particle = pParticles[i];
+                                    ^
+../src/SDL Test.cpp:44:36: error: invalid operands of types ‘double’ and ‘const int’ to binary ‘operator%’
+    int x = (particle.m_x % Screen::SCREEN_WIDTH);
+                                    ^
+../src/SDL Test.cpp:45:36: error: invalid operands of types ‘double’ and ‘const int’ to binary ‘operator%’
+    int y = (particle.m_y % Screen::SCREEN_HEIGHT);
+                                    ^
+make: *** [src/SDL Test.o] Error 1
+src/subdir.mk:34: recipe for target 'src/SDL Test.o' failed
+14:45:36 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building file: ../src/Swarm.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Swarm.d" -MT"src/Swarm.d" -o "src/Swarm.o" "../src/Swarm.cpp"
+Finished building: ../src/Swarm.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+14:45:59 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+14:58:53 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building file: ../src/Swarm.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Swarm.d" -MT"src/Swarm.d" -o "src/Swarm.o" "../src/Swarm.cpp"
+Finished building: ../src/Swarm.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+15:02:13 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building file: ../src/Screen.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Screen.d" -MT"src/Screen.d" -o "src/Screen.o" "../src/Screen.cpp"
+Finished building: ../src/Screen.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+15:02:41 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+15:02:58 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+15:06:32 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+15:07:12 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+15:08:49 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+15:12:02 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building file: ../src/Swarm.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Swarm.d" -MT"src/Swarm.d" -o "src/Swarm.o" "../src/Swarm.cpp"
+Finished building: ../src/Swarm.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+15:12:19 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+15:15:09 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+15:17:05 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building file: ../src/Swarm.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Swarm.d" -MT"src/Swarm.d" -o "src/Swarm.o" "../src/Swarm.cpp"
+Finished building: ../src/Swarm.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
