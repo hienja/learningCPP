@@ -1,4 +1,4 @@
-20:13:20 **** Incremental Build of configuration Debug for project SDL Test ****
+20:42:52 **** Incremental Build of configuration Debug for project SDL Test ****
 make all 
 Building file: ../src/SDL Test.cpp
 Invoking: Cross G++ Compiler
@@ -11,5 +11,5 @@ g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
 Finished building target: SDL Test
  
 
-20:13:20 Build Finished (took 519ms)
+20:42:52 Build Finished (took 481ms)
 

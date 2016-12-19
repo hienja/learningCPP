@@ -1560,3 +1560,81 @@ Invoking: Cross G++ Linker
 g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
 Finished building target: SDL Test
  
+20:38:43 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:55:38: warning: right operand of comma operator has no effect [-Wunused-value]
+  SDL_UpdateTexture = (texture, NULL, buffer, SCREEN_WIDTH*sizeof(Uint32));
+                                      ^
+../src/SDL Test.cpp:55:72: warning: right operand of comma operator has no effect [-Wunused-value]
+  SDL_UpdateTexture = (texture, NULL, buffer, SCREEN_WIDTH*sizeof(Uint32));
+                                                                        ^
+../src/SDL Test.cpp:55:20: error: assignment of function ‘int SDL_UpdateTexture(SDL_Texture*, const SDL_Rect*, const void*, int)’
+  SDL_UpdateTexture = (texture, NULL, buffer, SCREEN_WIDTH*sizeof(Uint32));
+                    ^
+../src/SDL Test.cpp:55:20: error: cannot convert ‘long unsigned int’ to ‘int(SDL_Texture*, const SDL_Rect*, const void*, int)’ in assignment
+../src/SDL Test.cpp:56:18: error: assignment of function ‘int SDL_RenderClear(SDL_Renderer*)’
+  SDL_RenderClear = (renderer);
+                  ^
+../src/SDL Test.cpp:56:18: error: cannot convert ‘SDL_Renderer*’ to ‘int(SDL_Renderer*)’ in assignment
+src/subdir.mk:18: recipe for target 'src/SDL Test.o' failed
+../src/SDL Test.cpp:57:30: warning: left operand of comma operator has no effect [-Wunused-value]
+  SDL_RenderCopy = (renderer, texture, NULL, NULL);
+                              ^
+../src/SDL Test.cpp:57:17: error: assignment of function ‘int SDL_RenderCopy(SDL_Renderer*, SDL_Texture*, const SDL_Rect*, const SDL_Rect*)’
+  SDL_RenderCopy = (renderer, texture, NULL, NULL);
+                 ^
+../src/SDL Test.cpp:57:17: error: cannot convert ‘long int’ to ‘int(SDL_Renderer*, SDL_Texture*, const SDL_Rect*, const SDL_Rect*)’ in assignment
+../src/SDL Test.cpp:58:20: error: assignment of function ‘void SDL_RenderPresent(SDL_Renderer*)’
+  SDL_RenderPresent = (renderer);
+                    ^
+../src/SDL Test.cpp:58:20: error: cannot convert ‘SDL_Renderer*’ to ‘void(SDL_Renderer*)’ in assignment
+make: *** [src/SDL Test.o] Error 1
+20:41:40 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:55:38: warning: right operand of comma operator has no effect [-Wunused-value]
+  SDL_UpdateTexture = (texture, NULL, buffer, SCREEN_WIDTH * sizeof(Uint32));
+                                      ^
+../src/SDL Test.cpp:55:74: warning: right operand of comma operator has no effect [-Wunused-value]
+  SDL_UpdateTexture = (texture, NULL, buffer, SCREEN_WIDTH * sizeof(Uint32));
+                                                                          ^
+../src/SDL Test.cpp:55:20: error: assignment of function ‘int SDL_UpdateTexture(SDL_Texture*, const SDL_Rect*, const void*, int)’
+  SDL_UpdateTexture = (texture, NULL, buffer, SCREEN_WIDTH * sizeof(Uint32));
+                    ^
+../src/SDL Test.cpp:55:20: error: cannot convert ‘long unsigned int’ to ‘int(SDL_Texture*, const SDL_Rect*, const void*, int)’ in assignment
+../src/SDL Test.cpp:56:18: error: assignment of function ‘int SDL_RenderClear(SDL_Renderer*)’
+  SDL_RenderClear = (renderer);
+                  ^
+../src/SDL Test.cpp:56:18: error: cannot convert ‘SDL_Renderer*’ to ‘int(SDL_Renderer*)’ in assignment
+../src/SDL Test.cpp:57:30: warning: left operand of comma operator has no effect [-Wunused-value]
+  SDL_RenderCopy = (renderer, texture, NULL, NULL);
+                              ^
+../src/SDL Test.cpp:57:17: error: assignment of function ‘int SDL_RenderCopy(SDL_Renderer*, SDL_Texture*, const SDL_Rect*, const SDL_Rect*)’
+  SDL_RenderCopy = (renderer, texture, NULL, NULL);
+                 ^
+../src/SDL Test.cpp:57:17: error: cannot convert ‘long int’ to ‘int(SDL_Renderer*, SDL_Texture*, const SDL_Rect*, const SDL_Rect*)’ in assignment
+../src/SDL Test.cpp:58:20: error: assignment of function ‘void SDL_RenderPresent(SDL_Renderer*)’
+  SDL_RenderPresent = (renderer);
+                    ^
+../src/SDL Test.cpp:58:20: error: cannot convert ‘SDL_Renderer*’ to ‘void(SDL_Renderer*)’ in assignment
+make: *** [src/SDL Test.o] Error 1
+src/subdir.mk:18: recipe for target 'src/SDL Test.o' failed
+20:42:52 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
