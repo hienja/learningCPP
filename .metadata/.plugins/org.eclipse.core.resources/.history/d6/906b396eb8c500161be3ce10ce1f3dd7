@@ -1,0 +1,21 @@
+/*
+ * Particle.cpp
+ *
+ *  Created on: Dec 18, 2016
+ *      Author: hienja
+ */
+
+#include "Particle.h"
+
+namespace ht {
+
+Particle::Particle() {
+	// TODO Auto-generated constructor stub
+
+}
+
+Particle::~Particle() {
+	// TODO Auto-generated destructor stub
+}
+
+} /* namespace ht */

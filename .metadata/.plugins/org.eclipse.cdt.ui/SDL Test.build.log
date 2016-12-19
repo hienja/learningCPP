@@ -1,4 +1,4 @@
-22:49:04 **** Incremental Build of configuration Debug for project SDL Test ****
+23:25:10 **** Incremental Build of configuration Debug for project SDL Test ****
 make all 
 Building file: ../src/SDL Test.cpp
 Invoking: Cross G++ Compiler
@@ -7,9 +7,9 @@ Finished building: ../src/SDL Test.cpp
  
 Building target: SDL Test
 Invoking: Cross G++ Linker
-g++  -o "SDL Test"  ./src/SDL\ Test.o ./src/Screen.o   -lSDL2
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
 Finished building target: SDL Test
  
 
-22:49:05 Build Finished (took 535ms)
+23:25:11 Build Finished (took 578ms)
 

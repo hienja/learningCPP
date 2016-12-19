@@ -1,0 +1,21 @@
+/*
+ * Swarm.cpp
+ *
+ *  Created on: Dec 18, 2016
+ *      Author: hienja
+ */
+
+#include "Swarm.h"
+
+namespace ht {
+
+Swarm::Swarm() {
+	// TODO Auto-generated constructor stub
+
+}
+
+Swarm::~Swarm() {
+	// TODO Auto-generated destructor stub
+}
+
+} /* namespace ht */

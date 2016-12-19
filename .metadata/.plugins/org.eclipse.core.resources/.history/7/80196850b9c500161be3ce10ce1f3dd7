@@ -1,0 +1,21 @@
+/*
+ * Swarm.h
+ *
+ *  Created on: Dec 18, 2016
+ *      Author: hienja
+ */
+
+#ifndef SWARM_H_
+#define SWARM_H_
+
+namespace ht {
+
+class Swarm {
+public:
+	Swarm();
+	virtual ~Swarm();
+};
+
+} /* namespace ht */
+
+#endif /* SWARM_H_ */
