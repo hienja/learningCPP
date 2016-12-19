@@ -55,7 +55,7 @@ bool Screen::init() {
 	return true;
 };
 
-void Screen::setPixel(int x, int y, Uint8 red, Uint8 green, Uint8 blue) {
+void Screen::setPixel(int x, int y, Uint8 red, Uint8 blue, Uint8 green) {
 	Uint32 color = 0;
 
 	color += red;
@@ -64,7 +64,7 @@ void Screen::setPixel(int x, int y, Uint8 red, Uint8 green, Uint8 blue) {
 	color <<= 8;
 	color += blue;
 	color <<= 8;
-	color += 0xFF;
+	color << 0xFF;
 
 	m_buffer[(y * SCREEN_WIDTH) + x] = color;
 };

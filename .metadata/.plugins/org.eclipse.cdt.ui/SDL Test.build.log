@@ -1,6 +1,20 @@
-21:54:54 **** Incremental Build of configuration Debug for project SDL Test ****
+22:26:46 **** Incremental Build of configuration Debug for project SDL Test ****
 make all 
-make: Nothing to be done for 'all'.
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building file: ../src/Screen.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Screen.d" -MT"src/Screen.d" -o "src/Screen.o" "../src/Screen.cpp"
+Finished building: ../src/Screen.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o ./src/Screen.o   -lSDL2
+Finished building target: SDL Test
+ 
 
-21:54:54 Build Finished (took 80ms)
+22:26:47 Build Finished (took 631ms)
 
