@@ -1,19 +1,7 @@
-19:44:31 **** Incremental Build of configuration Debug for project Char Arrays ****
-make all 
-Building file: ../src/Char Arrays.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Char Arrays.d" -MT"src/Char\ Arrays.d" -o "src/Char Arrays.o" "../src/Char Arrays.cpp"
-../src/Char Arrays.cpp: In function ‘int main()’:
-../src/Char Arrays.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-  for(int i = 0; i < sizeof(text)/sizeof(char); i++) {
-                   ^
-Finished building: ../src/Char Arrays.cpp
- 
-Building target: Char Arrays
-Invoking: Cross G++ Linker
-g++  -o "Char Arrays"  ./src/Char\ Arrays.o   
-Finished building target: Char Arrays
+20:12:20 **** Clean-only build of configuration Debug for project Char Arrays ****
+make clean 
+rm -rf  ./src/Char\ Arrays.o  ./src/Char\ Arrays.d  "Char Arrays"
  
 
-19:44:31 Build Finished (took 374ms)
+20:12:20 Build Finished (took 68ms)
 

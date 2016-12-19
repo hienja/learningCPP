@@ -1,6 +1,7 @@
-19:51:46 **** Build of configuration Debug for project Overloading Constructors ****
-make all 
-make: Nothing to be done for 'all'.
+20:12:21 **** Clean-only build of configuration Debug for project Overloading Constructors ****
+make clean 
+rm -rf  ./src/Overloading\ Constructors.o ./src/Person.o  ./src/Overloading\ Constructors.d ./src/Person.d  "Overloading Constructors"
+ 
 
-19:51:46 Build Finished (took 90ms)
+20:12:21 Build Finished (took 83ms)
 

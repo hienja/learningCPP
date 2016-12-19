@@ -1,6 +1,7 @@
-19:52:21 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
-make all 
-make: Nothing to be done for 'all'.
+20:12:21 **** Clean-only build of configuration Debug for project Constructor and Destructors ****
+make clean 
+rm -rf  ./src/Cat.o ./src/Constructor\ and\ Destructors.o  ./src/Cat.d ./src/Constructor\ and\ Destructors.d  "Constructor and Destructors"
+ 
 
-19:52:21 Build Finished (took 85ms)
+20:12:21 Build Finished (took 73ms)
 

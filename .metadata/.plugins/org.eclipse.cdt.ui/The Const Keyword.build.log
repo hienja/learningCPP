@@ -1,15 +1,7 @@
-20:30:01 **** Incremental Build of configuration Debug for project The Const Keyword ****
-make all 
-Building file: ../src/The Const Keyword.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/The Const Keyword.d" -MT"src/The\ Const\ Keyword.d" -o "src/The Const Keyword.o" "../src/The Const Keyword.cpp"
-Finished building: ../src/The Const Keyword.cpp
- 
-Building target: The Const Keyword
-Invoking: Cross G++ Linker
-g++  -o "The Const Keyword"  ./src/The\ Const\ Keyword.o   
-Finished building target: The Const Keyword
+20:12:22 **** Clean-only build of configuration Debug for project The Const Keyword ****
+make clean 
+rm -rf  ./src/The\ Const\ Keyword.o  ./src/The\ Const\ Keyword.d  "The Const Keyword"
  
 
-20:30:01 Build Finished (took 380ms)
+20:12:22 Build Finished (took 75ms)
 

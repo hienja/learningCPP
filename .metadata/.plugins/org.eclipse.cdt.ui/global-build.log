@@ -1406,3 +1406,157 @@ Invoking: Cross G++ Linker
 g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
 Finished building target: SDL Test
  
+19:56:05 **** Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+20:11:51 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:12:20 **** Clean-only build of configuration Debug for project Allocating Memory ****
+make clean 
+rm -rf  ./src/Allocating\ Memory.o  ./src/Allocating\ Memory.d  "Allocating Memory"
+ 
+20:12:20 **** Clean-only build of configuration Debug for project Arithmetic ****
+make clean 
+rm -rf  ./src/Arithmetic.o  ./src/Arithmetic.d  Arithmetic
+ 
+20:12:20 **** Clean-only build of configuration Debug for project Arrays and Functions ****
+make clean 
+rm -rf  ./src/Arrays\ and\ Functions.o  ./src/Arrays\ and\ Functions.d  "Arrays and Functions"
+ 
+20:12:20 **** Clean-only build of configuration Debug for project Char Arrays ****
+make clean 
+rm -rf  ./src/Char\ Arrays.o  ./src/Char\ Arrays.d  "Char Arrays"
+ 
+20:12:20 **** Clean-only build of configuration Debug for project Classes ****
+make clean 
+rm -rf  ./src/Cat.o ./src/Classes.o  ./src/Cat.d ./src/Classes.d  Classes
+ 
+20:12:20 **** Clean-only build of configuration Debug for project Constructor Inheritance ****
+make clean 
+rm -rf  ./src/Constructor\ Inheritance.o  ./src/Constructor\ Inheritance.d  "Constructor Inheritance"
+ 
+20:12:20 **** Clean-only build of configuration Debug for project Constructor Initialization Lists ****
+make clean 
+rm -rf  ./src/Constructor\ Initialization\ Lists.o ./src/Person.o  ./src/Constructor\ Initialization\ Lists.d ./src/Person.d  "Constructor Initialization Lists"
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Constructor and Destructors ****
+make clean 
+rm -rf  ./src/Cat.o ./src/Constructor\ and\ Destructors.o  ./src/Cat.d ./src/Constructor\ and\ Destructors.d  "Constructor and Destructors"
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Copy Constructors ****
+make clean 
+rm -rf  ./src/Copy\ Constructors.o  ./src/Copy\ Constructors.d  "Copy Constructors"
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Data Members ****
+make clean 
+rm -rf  ./src/Cat.o ./src/Data\ Members.o  ./src/Cat.d ./src/Data\ Members.d  "Data Members"
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Encapsulation ****
+make clean 
+rm -rf  ./src/Encapsulation.o  ./src/Encapsulation.d  Encapsulation
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Getters and Setters ****
+make clean 
+rm -rf  ./src/Getters\ and\ Setters.o ./src/Person.o  ./src/Getters\ and\ Setters.d ./src/Person.d  "Getters and Setters"
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Headers and Prototypes ****
+make clean 
+rm -rf  ./src/Headers\ and\ Prototypes.o  ./src/Headers\ and\ Prototypes.d  "Headers and Prototypes"
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Inheritance ****
+make clean 
+rm -rf  ./src/Inheritance.o  ./src/Inheritance.d  Inheritance
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Namespace ****
+make clean 
+rm -rf  ./src/Aniamls.o ./src/Cat.o ./src/Namespace.o  ./src/Aniamls.d ./src/Cat.d ./src/Namespace.d  Namespace
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Overloading Constructors ****
+make clean 
+rm -rf  ./src/Overloading\ Constructors.o ./src/Person.o  ./src/Overloading\ Constructors.d ./src/Person.d  "Overloading Constructors"
+ 
+20:12:21 **** Clean-only build of configuration Debug for project Pointer Arithmetic ****
+make clean 
+rm -rf  ./src/Pointer\ Arithmetic.o  ./src/Pointer\ Arithmetic.d  "Pointer Arithmetic"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project Pointers ****
+make clean 
+rm -rf  ./src/Pointers.o  ./src/Pointers.d  Pointers
+ 
+20:12:22 **** Clean-only build of configuration Debug for project Pointers and Arrays ****
+make clean 
+rm -rf  ./src/Pointers\ and\ Arrays.o  ./src/Pointers\ and\ Arrays.d  "Pointers and Arrays"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project References ****
+make clean 
+rm -rf  ./src/References.o  ./src/References.d  References
+ 
+20:12:22 **** Clean-only build of configuration Debug for project Return Object from Functions ****
+make clean 
+rm -rf  ./src/Return\ Object\ from\ Functions.o  ./src/Return\ Object\ from\ Functions.d  "Return Object from Functions"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project Reversing a String ****
+make clean 
+rm -rf  ./src/Reversing\ a\ String.o  ./src/Reversing\ a\ String.d  "Reversing a String"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project SDL Test ****
+make clean 
+rm -rf  ./src/SDL\ Test.o  ./src/SDL\ Test.d  "SDL Test"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project String Streams ****
+make clean 
+rm -rf  ./src/String\ Streams.o  ./src/String\ Streams.d  "String Streams"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project The Const Keyword ****
+make clean 
+rm -rf  ./src/The\ Const\ Keyword.o  ./src/The\ Const\ Keyword.d  "The Const Keyword"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project The New Operator ****
+make clean 
+rm -rf  ./src/The\ New\ Operator.o  ./src/The\ New\ Operator.d  "The New Operator"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project The Static Keyword ****
+make clean 
+rm -rf  ./src/The\ Static\ Keyword.o  ./src/The\ Static\ Keyword.d  "The Static Keyword"
+ 
+20:12:22 **** Clean-only build of configuration Debug for project This ****
+make clean 
+rm -rf  ./src/Person.o ./src/This.o  ./src/Person.d ./src/This.d  This
+ 
+20:12:31 **** Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:12:34 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+20:13:20 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 

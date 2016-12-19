@@ -1,6 +1,7 @@
-20:49:11 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
-make all 
-make: Nothing to be done for 'all'.
+20:12:21 **** Clean-only build of configuration Debug for project Pointer Arithmetic ****
+make clean 
+rm -rf  ./src/Pointer\ Arithmetic.o  ./src/Pointer\ Arithmetic.d  "Pointer Arithmetic"
+ 
 
-20:49:11 Build Finished (took 70ms)
+20:12:22 Build Finished (took 74ms)
 

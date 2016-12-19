@@ -1,20 +1,7 @@
-19:30:01 **** Incremental Build of configuration Debug for project Constructor Initialization Lists ****
-make all 
-Building file: ../src/Constructor Initialization Lists.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Constructor Initialization Lists.d" -MT"src/Constructor\ Initialization\ Lists.d" -o "src/Constructor Initialization Lists.o" "../src/Constructor Initialization Lists.cpp"
-Finished building: ../src/Constructor Initialization Lists.cpp
- 
-Building file: ../src/Person.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Person.d" -MT"src/Person.d" -o "src/Person.o" "../src/Person.cpp"
-Finished building: ../src/Person.cpp
- 
-Building target: Constructor Initialization Lists
-Invoking: Cross G++ Linker
-g++  -o "Constructor Initialization Lists"  ./src/Constructor\ Initialization\ Lists.o ./src/Person.o   
-Finished building target: Constructor Initialization Lists
+20:12:20 **** Clean-only build of configuration Debug for project Constructor Initialization Lists ****
+make clean 
+rm -rf  ./src/Constructor\ Initialization\ Lists.o ./src/Person.o  ./src/Constructor\ Initialization\ Lists.d ./src/Person.d  "Constructor Initialization Lists"
  
 
-19:30:02 Build Finished (took 640ms)
+20:12:21 Build Finished (took 78ms)
 

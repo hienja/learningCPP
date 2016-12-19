@@ -1,6 +1,7 @@
-19:51:58 **** Build of configuration Debug for project Getters and Setters ****
-make all 
-make: Nothing to be done for 'all'.
+20:12:21 **** Clean-only build of configuration Debug for project Getters and Setters ****
+make clean 
+rm -rf  ./src/Getters\ and\ Setters.o ./src/Person.o  ./src/Getters\ and\ Setters.d ./src/Person.d  "Getters and Setters"
+ 
 
-19:51:59 Build Finished (took 84ms)
+20:12:21 Build Finished (took 76ms)
 

@@ -1,15 +1,7 @@
-21:53:18 **** Incremental Build of configuration Debug for project Inheritance ****
-make all 
-Building file: ../src/Inheritance.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheritance.d" -MT"src/Inheritance.d" -o "src/Inheritance.o" "../src/Inheritance.cpp"
-Finished building: ../src/Inheritance.cpp
- 
-Building target: Inheritance
-Invoking: Cross G++ Linker
-g++  -o "Inheritance"  ./src/Inheritance.o   
-Finished building target: Inheritance
+20:12:21 **** Clean-only build of configuration Debug for project Inheritance ****
+make clean 
+rm -rf  ./src/Inheritance.o  ./src/Inheritance.d  Inheritance
  
 
-21:53:18 Build Finished (took 423ms)
+20:12:21 Build Finished (took 72ms)
 
