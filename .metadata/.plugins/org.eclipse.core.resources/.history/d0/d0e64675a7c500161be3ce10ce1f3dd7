@@ -53,7 +53,7 @@ int main() {
 
 	buffer[30000] = 0xFFFFFFFF;
 	for(int i = 0; i < SCREEN_WIDTH * SCREEN_HEIGHT; i++) {
-		buffer[i] = 0x00FFBBFF;
+		buffer[i] = 0x00AAAAFF;
 	}
 
 	SDL_Event event;

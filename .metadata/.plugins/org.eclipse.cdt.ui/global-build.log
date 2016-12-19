@@ -1638,3 +1638,147 @@ Invoking: Cross G++ Linker
 g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
 Finished building target: SDL Test
  
+20:51:18 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:55:22 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:55:40 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:56:00 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:56:10 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:56:20 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:56:31 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:56:42 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:56:54 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:57:05 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:57:18 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
+20:57:29 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/SDL\ Test.o   -lSDL2
+Finished building target: SDL Test
+ 
