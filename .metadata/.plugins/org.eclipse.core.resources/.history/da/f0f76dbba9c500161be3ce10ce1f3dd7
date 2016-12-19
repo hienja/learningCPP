@@ -1,0 +1,33 @@
+/*
+ * Screen.h
+ *
+ *  Created on: Dec 18, 2016
+ *      Author: hienja
+ */
+
+#ifndef SCREEN_H_
+#define SCREEN_H_
+
+namespace ht {
+
+class Screen {
+private:
+	SDL_Window *window;
+	SDL_Renderer *renderer;
+	SDL_Texture *texture;
+	Uint32 *buffer;
+
+public:
+	const static int SCREEN_WIDTH;
+	const static int SCREEN_HEIGHT;
+
+public:
+	Screen();
+	bool init();
+	bool processEvent();
+	void close();
+};
+
+} /* namespace ht */
+
+#endif /* SCREEN_H_ */

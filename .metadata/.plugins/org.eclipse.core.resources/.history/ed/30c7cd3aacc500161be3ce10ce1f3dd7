@@ -1,0 +1,37 @@
+//============================================================================
+// Name        : SDL.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <SDL2/SDL.h>
+#include "Screen.h"
+
+using namespace std;
+using namespace ht;
+
+int main() {
+	Screen screen;
+	if (screen.init() == false) {
+		cout << "Error Initializing SDL" << endl;
+		return 1;
+	}
+
+	bool quit = false;
+	while (!quit) {
+		//Update particle
+		//Draw particle
+		//Check for message/events
+		if (screen.processEvents() == false) {
+			break;
+		}
+
+	}
+
+	cout << "Program Quiting..." << endl;
+	screen.close();
+	return 0;
+}

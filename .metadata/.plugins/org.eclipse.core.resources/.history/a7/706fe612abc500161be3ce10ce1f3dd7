@@ -1,0 +1,28 @@
+/*
+ * Screen.cpp
+ *
+ *  Created on: Dec 18, 2016
+ *      Author: hienja
+ */
+
+#include "Screen.h"
+
+namespace ht {
+//SDL_Renderer *renderer = SDL_CreateRenderer(window, -1,
+		//SDL_RENDERER_PRESENTVSYNC);
+//SDL_Texture *texture = SDL_CreateTexture(renderer, SDL_PIXELFORMAT_RGBA8888,
+		//SDL_TEXTUREACCESS_STATIC, SCREEN_WIDTH, SCREEN_HEIGHT);
+Screen::Screen() :
+		m_window(NULL), m_renderer(NULL), m_texture(NULL), m_buffer(NULL) {
+
+};
+bool Screen::init() {
+	return true;
+};
+bool Screen::processEvent() {
+	return false;
+};
+void Screen::close() {
+
+};
+} /* namespace ht */

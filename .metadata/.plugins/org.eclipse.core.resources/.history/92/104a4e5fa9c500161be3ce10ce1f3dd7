@@ -1,0 +1,18 @@
+/*
+ * Screen.h
+ *
+ *  Created on: Dec 18, 2016
+ *      Author: hienja
+ */
+
+#ifndef SCREEN_H_
+#define SCREEN_H_
+
+namespace ht {
+
+class Screen {
+};
+
+} /* namespace ht */
+
+#endif /* SCREEN_H_ */
