@@ -1,0 +1,51 @@
+//============================================================================
+// Name        : SDL.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <math.h>
+#include <SDL2/SDL.h>
+#include "Screen.h"
+
+using namespace std;
+using namespace ht;
+
+int main() {
+	Screen screen;
+	if (screen.init() == false) {
+		cout << "Error Initializing SDL" << endl;
+		return 1;
+	}
+
+	int max = 0;
+	while (true) {
+		//Update particle
+
+		//Draw particle
+		int elapsed = SDL_GetTicks();
+		unsigned char green = (unsigned char)((1 + sin(elapsed * .00005)) * 128);
+		if(green > max) max = green;
+		for(int x = 0; x < Screen::SCREEN_WIDTH; x++) {
+			for(int y = 0; y < Screen::SCREEN_HEIGHT; y++) {
+				screen.setPixel(x, y , 0, green, 0);
+			}
+		}
+
+		//Draw to screen
+		screen.update();
+
+		//Check for message/events
+		if (screen.processEvents() == false) {
+			break;
+		}
+	}
+
+	cout << "Max: " << max << endl;
+	cout << "Program Quiting..." << endl;
+	screen.close();
+	return 0;
+}
