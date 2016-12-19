@@ -657,3 +657,75 @@ C Model Exception: C Model Status [Element SDL Test.cpp does not exist.]
 	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
 !SUBENTRY 1 org.eclipse.cdt.core 4 969 2016-12-17 23:25:46.446
 !MESSAGE Element SDL Test.cpp does not exist.
+!SESSION 2016-12-18 19:54:29.359 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-18 21:56:10.403
+!MESSAGE Indexed 'Bit Shifting' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.379
+!MESSAGE NLS unused message: TemplateEngine.internalError in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.379
+!MESSAGE NLS unused message: TemplateEngine.templateEngine in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.379
+!MESSAGE NLS unused message: ProjectCreatedActions.InsufficientInformation in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.380
+!MESSAGE NLS unused message: ConditionalProcessGroup.notExecuting in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.380
+!MESSAGE NLS unused message: ConditionalProcessGroup.unexpandableMacro in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.380
+!MESSAGE NLS unused message: Process.argument in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.380
+!MESSAGE NLS unused message: Process.expandableMacro in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.380
+!MESSAGE NLS unused message: Process.error in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.380
+!MESSAGE NLS unused message: Process.success in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.380
+!MESSAGE NLS unused message: Process.info in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.381
+!MESSAGE NLS unused message: Process.unknownProcess in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.381
+!MESSAGE NLS unused message: Process.executedSuccessfully in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.381
+!MESSAGE NLS unused message: ProcessRunner.unexpectedArguments in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.381
+!MESSAGE NLS unused message: ProcessRunner.missingArguments in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.381
+!MESSAGE NLS unused message: ProcessRunner.argumentsMismatch in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.381
+!MESSAGE NLS unused message: ProcessRunner.error in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.381
+!MESSAGE NLS unused message: ProcessRunner.success in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.382
+!MESSAGE NLS unused message: ProcessRunner.info in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-18 21:57:01.382
+!MESSAGE NLS unused message: ProcessHelper.fileNotFound in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-18 21:57:02.477
+!MESSAGE Indexed 'Bit Shifting' (1 sources, 0 headers) in 0.004 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-18 22:00:49.641
+!MESSAGE Indexed 'Bit Shifting' (1 sources, 104 headers) in 2.8 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)
