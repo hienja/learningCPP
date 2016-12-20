@@ -45,7 +45,7 @@ int main() {
 
 			//Expecting x and y to be a number from -1 to 1
 			int x = (particle.m_x + 1) * Screen::SCREEN_WIDTH / 2;
-			int y = (particle.m_y * Screen::SCREEN_WIDTH / 2) + (Screen::SCREEN_HEIGHT / 2);
+			int y = particle.m_y * Screen::SCREEN_WIDTH / 2 + Screen::SCREEN_HEIGHT;
 			/*Alternative method for generating random number
 			 * int x = (particle.m_x % Screen::SCREEN_WIDTH);
 			 * int y = (particle.m_y % Screen::SCREEN_HEIGHT);
