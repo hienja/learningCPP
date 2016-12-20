@@ -24,14 +24,14 @@ Particle::Particle(): m_x(0), m_y(0) {
 //	m_xSpeed = ((2.0 * rand()) / RAND_MAX - 1) * 0.01;
 //	m_ySpeed = ((2.0 * rand()) / RAND_MAX - 1) * 0.01;
 	m_direction = (2.0 * M_PI * rand())/RAND_MAX;
-	m_speed = (0.0001 * rand())/RAND_MAX;
+	m_speed = (0.01 * rand())/RAND_MAX;
 }
 
 Particle::~Particle() {
 	// TODO Auto-generated destructor stub
 }
 
-void Particle::update(int interval) {
+void Particle::update() {
 //	m_x += m_xSpeed;
 //	m_y += m_ySpeed;
 //
@@ -44,8 +44,8 @@ void Particle::update(int interval) {
 	double xSpeed = m_speed * cos(m_direction);
 	double ySpeed = m_speed * sin(m_direction);
 
-	m_x += xSpeed * interval;
-	m_y += ySpeed * interval;
+	m_x += xSpeed;
+	m_y += ySpeed;
 }
 
 } /* namespace ht */

@@ -15,7 +15,6 @@ namespace ht {
 class Swarm {
 private:
 	Particle *m_pParticles;
-	int lastTime;
 
 public:
 	const static int NPARTICLES = 5000;

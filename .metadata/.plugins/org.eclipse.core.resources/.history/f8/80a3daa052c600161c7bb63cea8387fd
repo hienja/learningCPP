@@ -29,13 +29,12 @@ int main() {
 	Swarm swarm;
 
 	while (true) {
-		int elapsed = SDL_GetTicks();
-
 		//Update particle
 		screen.clear();
-		swarm.update(elapsed);
+		swarm.update();
 
 		//Draw particle
+		int elapsed = SDL_GetTicks();
 		unsigned char red = (unsigned char)((1 + sin(elapsed * .1)) * 128);
 		unsigned char green = (unsigned char)((1 + sin(elapsed * .2)) * 128);
 		unsigned char blue = (unsigned char)((1 + sin(elapsed * .3)) * 128);
