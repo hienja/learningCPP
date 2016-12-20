@@ -3876,3 +3876,78 @@ Finished building target: SDL Test
 17:24:38 **** Incremental Build of configuration Debug for project SDL Test ****
 make all 
 make: Nothing to be done for 'all'.
+17:53:10 **** Build of configuration Debug for project Bitwise And ****
+make all 
+Building file: ../src/Bitwise And.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Bitwise And.d" -MT"src/Bitwise\ And.d" -o "src/Bitwise And.o" "../src/Bitwise And.cpp"
+Finished building: ../src/Bitwise And.cpp
+ 
+Building target: Bitwise And
+Invoking: Cross G++ Linker
+g++  -o "Bitwise And"  ./src/Bitwise\ And.o   
+Finished building target: Bitwise And
+ 
+17:53:13 **** Incremental Build of configuration Debug for project Bitwise And ****
+make all 
+make: Nothing to be done for 'all'.
+17:54:07 **** Incremental Build of configuration Debug for project Bitwise And ****
+make all 
+Building file: ../src/Bitwise And.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Bitwise And.d" -MT"src/Bitwise\ And.d" -o "src/Bitwise And.o" "../src/Bitwise And.cpp"
+Finished building: ../src/Bitwise And.cpp
+ 
+Building target: Bitwise And
+Invoking: Cross G++ Linker
+g++  -o "Bitwise And"  ./src/Bitwise\ And.o   
+Finished building target: Bitwise And
+ 
+17:54:26 **** Incremental Build of configuration Debug for project Bitwise And ****
+make all 
+Building file: ../src/Bitwise And.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Bitwise And.d" -MT"src/Bitwise\ And.d" -o "src/Bitwise And.o" "../src/Bitwise And.cpp"
+Finished building: ../src/Bitwise And.cpp
+ 
+Building target: Bitwise And
+Invoking: Cross G++ Linker
+g++  -o "Bitwise And"  ./src/Bitwise\ And.o   
+Finished building target: Bitwise And
+ 
+17:55:24 **** Incremental Build of configuration Debug for project Bitwise And ****
+make all 
+Building file: ../src/Bitwise And.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Bitwise And.d" -MT"src/Bitwise\ And.d" -o "src/Bitwise And.o" "../src/Bitwise And.cpp"
+Finished building: ../src/Bitwise And.cpp
+ 
+Building target: Bitwise And
+Invoking: Cross G++ Linker
+g++  -o "Bitwise And"  ./src/Bitwise\ And.o   
+Finished building target: Bitwise And
+ 
+17:57:07 **** Incremental Build of configuration Debug for project Bitwise And ****
+make all 
+Building file: ../src/Bitwise And.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Bitwise And.d" -MT"src/Bitwise\ And.d" -o "src/Bitwise And.o" "../src/Bitwise And.cpp"
+Finished building: ../src/Bitwise And.cpp
+ 
+Building target: Bitwise And
+Invoking: Cross G++ Linker
+g++  -o "Bitwise And"  ./src/Bitwise\ And.o   
+Finished building target: Bitwise And
+ 
+17:58:03 **** Incremental Build of configuration Debug for project Bitwise And ****
+make all 
+Building file: ../src/Bitwise And.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Bitwise And.d" -MT"src/Bitwise\ And.d" -o "src/Bitwise And.o" "../src/Bitwise And.cpp"
+Finished building: ../src/Bitwise And.cpp
+ 
+Building target: Bitwise And
+Invoking: Cross G++ Linker
+g++  -o "Bitwise And"  ./src/Bitwise\ And.o   
+Finished building target: Bitwise And
+ 
