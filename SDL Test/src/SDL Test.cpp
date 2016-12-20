@@ -32,7 +32,6 @@ int main() {
 		int elapsed = SDL_GetTicks();
 
 		//Update particle
-		screen.clear();
 		swarm.update(elapsed);
 
 		//Draw particle
@@ -52,8 +51,10 @@ int main() {
 			 * int y = (particle.m_y % Screen::SCREEN_HEIGHT);
 			 */
 
-			screen.setPixel(x, y, red, blue, green);
+			screen.setPixel(x, y, 255, 255, 255);
 		}
+
+		screen.boxBlur();
 
 		//Draw to screen
 		screen.update();

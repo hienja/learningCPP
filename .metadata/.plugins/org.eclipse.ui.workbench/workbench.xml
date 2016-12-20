@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="26" version="2.0">
+<workbench progressCount="25" version="2.0">
 <workbenchAdvisor/>
 <window height="904" maximized="true" width="767" x="67" y="24">
 <fastViewData fastViewLocation="1024"/>
@@ -41,33 +41,33 @@
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="SDL Test.cpp" partName="SDL Test.cpp" path="/home/hienja/learningCPP/SDL Test/src/SDL Test.cpp" title="SDL Test.cpp" tooltip="SDL Test/src/SDL Test.cpp" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="SDL Test.cpp" partName="SDL Test.cpp" path="/home/hienja/learningCPP/SDL Test/src/SDL Test.cpp" title="SDL Test.cpp" tooltip="SDL Test/src/SDL Test.cpp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SDL Test/src/SDL Test.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="930" selectionTopPixel="250"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1408" selectionTopPixel="415"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="Screen.cpp" partName="Screen.cpp" path="/home/hienja/learningCPP/SDL Test/src/Screen.cpp" title="Screen.cpp" tooltip="SDL Test/src/Screen.cpp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SDL Test/src/Screen.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1161" selectionTopPixel="490"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2925" selectionTopPixel="1285"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="Screen.h" partName="Screen.h" path="/home/hienja/learningCPP/SDL Test/src/Screen.h" title="Screen.h" tooltip="SDL Test/src/Screen.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SDL Test/src/Screen.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="451" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="514" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="Particle.cpp" partName="Particle.cpp" path="/home/hienja/learningCPP/SDL Test/src/Particle.cpp" title="Particle.cpp" tooltip="SDL Test/src/Particle.cpp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SDL Test/src/Particle.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="201" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="752" selectionTopPixel="85"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="Particle.h" partName="Particle.h" path="/home/hienja/learningCPP/SDL Test/src/Particle.h" title="Particle.h" tooltip="SDL Test/src/Particle.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SDL Test/src/Particle.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="178" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="407" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Swarm.cpp" partName="Swarm.cpp" path="/home/hienja/learningCPP/SDL Test/src/Swarm.cpp" title="Swarm.cpp" tooltip="SDL Test/src/Swarm.cpp" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Swarm.cpp" partName="Swarm.cpp" path="/home/hienja/learningCPP/SDL Test/src/Swarm.cpp" title="Swarm.cpp" tooltip="SDL Test/src/Swarm.cpp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SDL Test/src/Swarm.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="215" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="435" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="Swarm.h" partName="Swarm.h" path="/home/hienja/learningCPP/SDL Test/src/Swarm.h" title="Swarm.h" tooltip="SDL Test/src/Swarm.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SDL Test/src/Swarm.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="182" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="210" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -76,7 +76,7 @@
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
 <category IMemento.internal.id="Errors"/>
-<category IMemento.internal.id="Warnings (5 items)"/>
+<category IMemento.internal.id="Warnings (1 item)"/>
 <category IMemento.internal.id="Warnings"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="435" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
@@ -254,7 +254,7 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.24983607" ratioLeft="381" ratioRight="1144" relationship="2" relative="topLeft"/>
 <info folder="true" part="bottom" ratio="0.7490637" ratioLeft="600" ratioRight="201" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
@@ -284,162 +284,165 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/SDL Test.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/Screen.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/Particle.cpp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/Swarm.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/Particle.cpp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/Particle.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/Swarm.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/Screen.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/Screen.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/SDL Test/src/SDL Test.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Bitwise And/src/Bitwise And.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/The New Operator/src/The New Operator.cpp"/>
 </editors>
-<item historyLabel="Screen.cpp" index="1">
-<position info="not_deleted" x="1421" y="0"/>
+<item historyLabel="Particle.h" index="2">
+<position info="not_deleted" x="156" y="20"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="472" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="609" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="649" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="858" y="0"/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="1084" y="0"/>
 </item>
-<item historyLabel="Particle.cpp" index="2">
-<position info="not_deleted" x="3" y="0"/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="982" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="3" y="0"/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="640" y="0"/>
 </item>
-<item historyLabel="Particle.h" index="4">
-<position info="not_deleted" x="178" y="0"/>
+<item historyLabel="Swarm.h" index="3">
+<position info="not_deleted" x="252" y="0"/>
 </item>
-<item historyLabel="Particle.cpp" index="2">
-<position info="not_deleted" x="3" y="0"/>
+<item historyLabel="SDL Test.cpp" index="6">
+<position info="not_deleted" x="1270" y="0"/>
 </item>
-<item historyLabel="Particle.cpp" index="2">
-<position info="not_deleted" x="195" y="0"/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="640" y="0"/>
 </item>
-<item historyLabel="Particle.h" index="4">
-<position info="not_deleted" x="178" y="0"/>
+<item historyLabel="SDL Test.cpp" index="6">
+<position info="not_deleted" x="1270" y="0"/>
 </item>
-<item historyLabel="Particle.cpp" index="2">
-<position info="not_deleted" x="201" y="0"/>
+<item historyLabel="Screen.h" index="4">
+<position info="not_deleted" x="472" y="0"/>
 </item>
-<item historyLabel="Particle.h" index="4">
-<position info="not_deleted" x="178" y="0"/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="643" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position/>
+<item historyLabel="SDL Test.cpp" index="6">
+<position info="not_deleted" x="733" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="516" y="0"/>
+<item historyLabel="Swarm.h" index="3">
+<position info="not_deleted" x="319" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="515" y="0"/>
+<item historyLabel="Swarm.cpp" index="0">
+<position info="not_deleted" x="263" y="0"/>
 </item>
-<item historyLabel="Swarm.h" index="5">
-<position info="not_deleted" x="186" y="0"/>
+<item historyLabel="Swarm.h" index="3">
+<position info="not_deleted" x="210" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="170" y="0"/>
+<item historyLabel="Swarm.cpp" index="0">
+<position info="not_deleted" x="263" y="0"/>
 </item>
-<item historyLabel="Swarm.h" index="5">
-<position info="not_deleted" x="240" y="0"/>
+<item historyLabel="Swarm.cpp" index="0">
+<position info="not_deleted" x="382" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="170" y="0"/>
+<item historyLabel="Particle.h" index="2">
+<position info="not_deleted" x="407" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="166" y="0"/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="640" y="0"/>
 </item>
-<item historyLabel="Swarm.h" index="5">
-<position info="not_deleted" x="240" y="0"/>
+<item historyLabel="Bitwise And.cpp" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="166" y="0"/>
+<item historyLabel="Bitwise And.cpp" index="7">
+<position info="not_deleted" x="713" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="216" y="0"/>
+<item historyLabel="Bitwise And.cpp" index="7">
+<position info="not_deleted" x="703" y="0"/>
 </item>
-<item historyLabel="Swarm.h" index="5">
-<position info="not_deleted" x="240" y="0"/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="640" y="0"/>
 </item>
-<item historyLabel="Swarm.h" index="5">
-<position info="not_deleted" x="316" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="1253" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="215" y="0"/>
+<item historyLabel="SDL Test.cpp" index="6">
+<position info="not_deleted" x="710" y="0"/>
 </item>
-<item historyLabel="Swarm.h" index="5">
-<position info="not_deleted" x="341" y="0"/>
+<item historyLabel="Particle.cpp" index="1">
+<position info="not_deleted" x="752" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="215" y="0"/>
+<item historyLabel="SDL Test.cpp" index="6">
+<position info="not_deleted" x="710" y="0"/>
 </item>
-<item historyLabel="Swarm.h" index="5">
-<position info="not_deleted" x="182" y="0"/>
+<item historyLabel="SDL Test.cpp" index="6">
+<position info="not_deleted" x="1517" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="215" y="0"/>
+<item historyLabel="Screen.h" index="4">
+<position info="not_deleted" x="472" y="0"/>
 </item>
-<item historyLabel="Swarm.h" index="5">
-<position info="not_deleted" x="182" y="0"/>
+<item historyLabel="Screen.h" index="4">
+<position info="not_deleted" x="527" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="215" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="2237" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="515" y="0"/>
+<item historyLabel="Screen.h" index="4">
+<position info="not_deleted" x="288" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="1046" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="1279" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="1000" y="0"/>
+<item historyLabel="Screen.h" index="4">
+<position info="not_deleted" x="514" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="1085" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="1279" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="1204" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="1535" y="0"/>
 </item>
-<item historyLabel="Particle.cpp" index="2">
-<position info="not_deleted" x="201" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="2230" y="0"/>
 </item>
-<item historyLabel="Screen.cpp" index="1">
-<position info="not_deleted" x="1421" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="1680" y="0"/>
 </item>
-<item historyLabel="Screen.cpp" index="1">
-<position info="not_deleted" x="1337" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="1836" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="1206" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="1897" y="0"/>
 </item>
-<item historyLabel="Screen.cpp" index="1">
-<position info="not_deleted" x="1161" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="1905" y="0"/>
 </item>
-<item historyLabel="SDL Test.cpp" index="0">
-<position info="not_deleted" x="930" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="2230" y="0"/>
 </item>
-<item historyLabel="Particle.cpp" index="2">
-<position info="not_deleted" x="201" y="0"/>
+<item historyLabel="SDL Test.cpp" index="6">
+<position info="not_deleted" x="1408" y="0"/>
 </item>
-<item historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="215" y="0"/>
+<item historyLabel="Screen.cpp" index="5">
+<position info="not_deleted" x="2925" y="0"/>
 </item>
-<item historyLabel="Particle.cpp" index="2">
-<position info="not_deleted" x="201" y="0"/>
+<item historyLabel="Swarm.cpp" index="0">
+<position info="not_deleted" x="368" y="6"/>
 </item>
-<item historyLabel="Particle.h" index="4">
-<position info="not_deleted" x="178" y="0"/>
+<item historyLabel="The New Operator.cpp" index="8">
+<position info="not_deleted" x="698" y="6"/>
 </item>
-<item historyLabel="Particle.cpp" index="2">
-<position info="not_deleted" x="201" y="0"/>
+<item historyLabel="Swarm.cpp" index="0">
+<position info="not_deleted" x="435" y="0"/>
 </item>
-<item active="true" historyLabel="Swarm.cpp" index="3">
-<position info="not_deleted" x="215" y="0"/>
+<item active="true" historyLabel="SDL Test.cpp" index="6">
+<position info="not_deleted" x="1408" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -458,6 +461,12 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="The New Operator.cpp" tooltip="The New Operator/src/The New Operator.cpp">
+<persistable path="/The New Operator/src/The New Operator.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Bitwise And.cpp" tooltip="Bitwise And/src/Bitwise And.cpp">
+<persistable path="/Bitwise And/src/Bitwise And.cpp"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Swarm.h" tooltip="SDL Test/src/Swarm.h">
 <persistable path="/SDL Test/src/Swarm.h"/>
 </file>
@@ -496,12 +505,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Inheritance.cpp" tooltip="Inheritance/src/Inheritance.cpp">
 <persistable path="/Inheritance/src/Inheritance.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Animals.h" tooltip="Namespace/src/Animals.h">
-<persistable path="/Namespace/src/Animals.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Aniamls.cpp" tooltip="Namespace/src/Aniamls.cpp">
-<persistable path="/Namespace/src/Aniamls.cpp"/>
 </file>
 </mruList>
 </workbench>

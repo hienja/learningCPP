@@ -3951,3 +3951,169 @@ Invoking: Cross G++ Linker
 g++  -o "Bitwise And"  ./src/Bitwise\ And.o   
 Finished building target: Bitwise And
  
+18:06:25 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:06:57 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:31:49 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building file: ../src/Screen.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Screen.d" -MT"src/Screen.d" -o "src/Screen.o" "../src/Screen.cpp"
+../src/Screen.cpp: In member function ‘void ht::Screen::boxBlur()’:
+../src/Screen.cpp:89:10: warning: unused variable ‘red’ [-Wunused-variable]
+    Uint8 red = redTotal / 9;
+          ^
+../src/Screen.cpp:90:10: warning: unused variable ‘green’ [-Wunused-variable]
+    Uint8 green  = greenTotal / 9;
+          ^
+../src/Screen.cpp:91:10: warning: unused variable ‘blue’ [-Wunused-variable]
+    Uint8 blue = blueTotal / 9;
+          ^
+Finished building: ../src/Screen.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:31:59 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+18:32:23 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+18:32:46 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Screen.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Screen.d" -MT"src/Screen.d" -o "src/Screen.o" "../src/Screen.cpp"
+Finished building: ../src/Screen.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:34:54 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+18:35:18 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+18:38:39 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+18:38:46 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+18:39:15 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+make: Nothing to be done for 'all'.
+18:39:30 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:39:48 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:42:38 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Screen.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Screen.d" -MT"src/Screen.d" -o "src/Screen.o" "../src/Screen.cpp"
+Finished building: ../src/Screen.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:43:36 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:45:52 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/SDL Test.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SDL Test.d" -MT"src/SDL\ Test.d" -o "src/SDL Test.o" "../src/SDL Test.cpp"
+../src/SDL Test.cpp: In function ‘int main()’:
+../src/SDL Test.cpp:38:17: warning: unused variable ‘red’ [-Wunused-variable]
+   unsigned char red = (unsigned char)((1 + sin(elapsed * .1)) * 128);
+                 ^
+../src/SDL Test.cpp:39:17: warning: unused variable ‘green’ [-Wunused-variable]
+   unsigned char green = (unsigned char)((1 + sin(elapsed * .2)) * 128);
+                 ^
+../src/SDL Test.cpp:40:17: warning: unused variable ‘blue’ [-Wunused-variable]
+   unsigned char blue = (unsigned char)((1 + sin(elapsed * .3)) * 128);
+                 ^
+Finished building: ../src/SDL Test.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
+18:47:01 **** Incremental Build of configuration Debug for project SDL Test ****
+make all 
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 

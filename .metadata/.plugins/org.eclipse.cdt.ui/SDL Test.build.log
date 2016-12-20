@@ -1,6 +1,15 @@
-17:24:38 **** Incremental Build of configuration Debug for project SDL Test ****
+18:47:01 **** Incremental Build of configuration Debug for project SDL Test ****
 make all 
-make: Nothing to be done for 'all'.
+Building file: ../src/Particle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Particle.d" -MT"src/Particle.d" -o "src/Particle.o" "../src/Particle.cpp"
+Finished building: ../src/Particle.cpp
+ 
+Building target: SDL Test
+Invoking: Cross G++ Linker
+g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swarm.o   -lSDL2
+Finished building target: SDL Test
+ 
 
-17:24:38 Build Finished (took 76ms)
+18:47:02 Build Finished (took 270ms)
 
