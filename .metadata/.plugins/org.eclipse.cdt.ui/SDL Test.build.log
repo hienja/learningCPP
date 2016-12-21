@@ -1,4 +1,4 @@
-18:47:01 **** Incremental Build of configuration Debug for project SDL Test ****
+16:05:29 **** Incremental Build of configuration Debug for project SDL Test ****
 make all 
 Building file: ../src/Particle.cpp
 Invoking: Cross G++ Compiler
@@ -11,5 +11,5 @@ g++  -o "SDL Test"  ./src/Particle.o ./src/SDL\ Test.o ./src/Screen.o ./src/Swar
 Finished building target: SDL Test
  
 
-18:47:02 Build Finished (took 270ms)
+16:05:29 Build Finished (took 284ms)
 
