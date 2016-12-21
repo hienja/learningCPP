@@ -1,0 +1,21 @@
+/*
+ * Cat.h
+ *
+ *  Created on: Dec 20, 2016
+ *      Author: hienja
+ */
+
+#ifndef CAT_H_
+#define CAT_H_
+
+namespace ht {
+
+class Cat {
+public:
+	Cat();
+	virtual ~Cat();
+};
+
+} /* namespace ht */
+
+#endif /* CAT_H_ */

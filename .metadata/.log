@@ -819,3 +819,75 @@ C Model Exception: C Model Status [Element Particle.cpp does not exist.]
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-12-19 17:47:42.881
 !MESSAGE Indexed 'Bitwise And' (1 sources, 104 headers) in 4.25 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)
+!SESSION 2016-12-20 14:18:22.968 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-20 19:43:20.763
+!MESSAGE Indexed 'Test Library' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.360
+!MESSAGE NLS unused message: TemplateEngine.internalError in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.360
+!MESSAGE NLS unused message: TemplateEngine.templateEngine in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.360
+!MESSAGE NLS unused message: ProjectCreatedActions.InsufficientInformation in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.360
+!MESSAGE NLS unused message: ConditionalProcessGroup.notExecuting in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.361
+!MESSAGE NLS unused message: ConditionalProcessGroup.unexpandableMacro in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.361
+!MESSAGE NLS unused message: Process.argument in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.361
+!MESSAGE NLS unused message: Process.expandableMacro in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.361
+!MESSAGE NLS unused message: Process.error in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.361
+!MESSAGE NLS unused message: Process.success in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.361
+!MESSAGE NLS unused message: Process.info in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.361
+!MESSAGE NLS unused message: Process.unknownProcess in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.362
+!MESSAGE NLS unused message: Process.executedSuccessfully in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.362
+!MESSAGE NLS unused message: ProcessRunner.unexpectedArguments in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.362
+!MESSAGE NLS unused message: ProcessRunner.missingArguments in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.362
+!MESSAGE NLS unused message: ProcessRunner.argumentsMismatch in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.362
+!MESSAGE NLS unused message: ProcessRunner.error in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.362
+!MESSAGE NLS unused message: ProcessRunner.success in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.362
+!MESSAGE NLS unused message: ProcessRunner.info in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-12-20 19:43:49.363
+!MESSAGE NLS unused message: ProcessHelper.fileNotFound in: org.eclipse.cdt.core.templateengine.process.Messages
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-20 19:43:55.994
+!MESSAGE Indexed 'Test Library' (1 sources, 104 headers) in 3.97 sec: 8,375 declarations; 14,590 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-12-20 19:45:15.753
+!MESSAGE Indexed 'animals' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

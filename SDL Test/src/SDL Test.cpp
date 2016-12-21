@@ -35,9 +35,9 @@ int main() {
 		swarm.update(elapsed);
 
 		//Draw particle
-		unsigned char red = (unsigned char)((1 + sin(elapsed * .1)) * 128);
-		unsigned char green = (unsigned char)((1 + sin(elapsed * .2)) * 128);
-		unsigned char blue = (unsigned char)((1 + sin(elapsed * .3)) * 128);
+		unsigned char red = (unsigned char)((1 + sin(elapsed * .0001)) * 128);
+		unsigned char green = (unsigned char)((1 + sin(elapsed * .0002)) * 128);
+		unsigned char blue = (unsigned char)((1 + sin(elapsed * .0003)) * 128);
 
 		const Particle * pParticles = swarm.getParticles();
 		for(int i = 0; i < Swarm::NPARTICLES; i++) {
@@ -51,7 +51,7 @@ int main() {
 			 * int y = (particle.m_y % Screen::SCREEN_HEIGHT);
 			 */
 
-			screen.setPixel(x, y, 255, 255, 255);
+			screen.setPixel(x, y, red, green, blue);
 		}
 
 		screen.boxBlur();

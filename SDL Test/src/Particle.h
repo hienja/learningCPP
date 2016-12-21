@@ -21,9 +21,9 @@ struct Particle {
 	 *int m_y
 	 */
 
+	double m_direction;
 private:
 	double m_speed;
-	double m_direction;
 
 
 public:
