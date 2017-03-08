@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+     Creating library C:\Users\Hien\Codes\learningCPP\DynamicLinkLibrary\Debug\MathLibrary.lib and object C:\Users\Hien\Codes\learningCPP\DynamicLinkLibrary\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Users\Hien\Codes\learningCPP\DynamicLinkLibrary\Debug\MathLibrary.dll
+  MathLibrary.vcxproj -> C:\Users\Hien\Codes\learningCPP\DynamicLinkLibrary\Debug\MathLibrary.pdb (Full PDB)
